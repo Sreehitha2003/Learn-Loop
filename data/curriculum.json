@@ -1,0 +1,1364 @@
+{
+ "roles": [
+  {
+   "id": "swe",
+   "label": "Software engineer"
+  },
+  {
+   "id": "aieng",
+   "label": "AI / ML engineer"
+  },
+  {
+   "id": "data",
+   "label": "Data scientist / analyst"
+  },
+  {
+   "id": "pm",
+   "label": "Product manager"
+  },
+  {
+   "id": "design",
+   "label": "Designer"
+  },
+  {
+   "id": "lead",
+   "label": "Leader / manager"
+  },
+  {
+   "id": "student",
+   "label": "Student / career switcher"
+  },
+  {
+   "id": "biz",
+   "label": "Non-technical professional"
+  }
+ ],
+ "levels": [
+  {
+   "id": 1,
+   "label": "New to AI",
+   "hint": "I've tried a chatbot a few times"
+  },
+  {
+   "id": 2,
+   "label": "Uses AI tools",
+   "hint": "I use AI assistants at work most days"
+  },
+  {
+   "id": 3,
+   "label": "Builds with AI",
+   "hint": "I've called an LLM API or built an AI feature"
+  },
+  {
+   "id": 4,
+   "label": "Advanced",
+   "hint": "I ship agents, run evals or train models"
+  }
+ ],
+ "topics": [
+  {
+   "id": "ai-at-work",
+   "title": "Using AI assistants well at work",
+   "what": "Getting reliable, high-quality help from assistants like Claude, ChatGPT and Gemini: giving context, checking output, and knowing what they're bad at.",
+   "why": "Assistants now take on multi-step work (research, documents, files, browsing), not just chat. The gap between casual and skilled users keeps widening.",
+   "how": {
+    "1": "Take a free AI fluency course, then use an assistant on one real task a day.",
+    "2": "Build reusable prompts or projects for your repeat tasks; learn when to verify and when to trust."
+   },
+   "weights": {
+    "swe": 1,
+    "aieng": 0,
+    "data": 2,
+    "pm": 3,
+    "design": 3,
+    "lead": 3,
+    "student": 3,
+    "biz": 3
+   },
+   "levels": [
+    1,
+    2
+   ],
+   "refs": [
+    {
+     "t": "Anthropic Academy: AI Fluency and Claude 101",
+     "u": "https://anthropic.skilljar.com/",
+     "lvl": 1,
+     "kind": "Course",
+     "free": true
+    },
+    {
+     "t": "Google Prompting Essentials",
+     "u": "https://grow.google/prompting-essentials/",
+     "lvl": 1,
+     "kind": "Course",
+     "free": true
+    },
+    {
+     "t": "OpenAI Academy",
+     "u": "https://academy.openai.com",
+     "lvl": 1,
+     "kind": "Course",
+     "free": true
+    },
+    {
+     "t": "Claude help center",
+     "u": "https://support.claude.com",
+     "lvl": 2,
+     "kind": "Docs",
+     "free": true
+    }
+   ],
+   "keywords": [
+    "chatgpt",
+    "claude app",
+    "gemini app",
+    "copilot",
+    "productivity",
+    "workplace",
+    "cowork",
+    "at work",
+    "office"
+   ],
+   "short": "AI at work"
+  },
+  {
+   "id": "fundamentals",
+   "title": "How LLMs actually work",
+   "what": "Tokens, context windows, next-token prediction, temperature, and why 'reasoning' or 'thinking' models spend extra tokens before answering.",
+   "why": "Every product decision (cost, speed, reliability) traces back to these basics. Models now ship with 1M-token context windows and adjustable reasoning effort, so knowing what those mean pays off.",
+   "how": {
+    "1": "Watch one intuitive explainer end to end.",
+    "2": "Learn tokens, context limits and reasoning effort; test them in a playground.",
+    "3": "Build a tiny language model or follow a from-scratch course.",
+    "4": "Go deep on architectures, scaling and inference."
+   },
+   "weights": {
+    "swe": 2,
+    "aieng": 2,
+    "data": 2,
+    "pm": 3,
+    "design": 2,
+    "lead": 2,
+    "student": 3,
+    "biz": 3
+   },
+   "levels": [
+    1,
+    2,
+    3
+   ],
+   "refs": [
+    {
+     "t": "3Blue1Brown: Neural networks series",
+     "u": "https://www.3blue1brown.com/topics/neural-networks",
+     "lvl": 1,
+     "kind": "Video",
+     "free": true
+    },
+    {
+     "t": "Andrej Karpathy: Intro to Large Language Models",
+     "u": "https://www.youtube.com/watch?v=zjkBMFhNj_g",
+     "lvl": 1,
+     "kind": "Video",
+     "free": true
+    },
+    {
+     "t": "Andrej Karpathy: Deep Dive into LLMs like ChatGPT",
+     "u": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
+     "lvl": 2,
+     "kind": "Video",
+     "free": true
+    },
+    {
+     "t": "Hugging Face LLM Course",
+     "u": "https://huggingface.co/learn/llm-course",
+     "lvl": 3,
+     "kind": "Course",
+     "free": true
+    },
+    {
+     "t": "Karpathy: Neural Networks, Zero to Hero",
+     "u": "https://karpathy.ai/zero-to-hero.html",
+     "lvl": 3,
+     "kind": "Course",
+     "free": true
+    },
+    {
+     "t": "Stanford CS336: Language Modeling from Scratch",
+     "u": "https://cs336.stanford.edu/",
+     "lvl": 4,
+     "kind": "Course",
+     "free": true
+    }
+   ],
+   "keywords": [
+    "transformer",
+    "tokens",
+    "context window",
+    "reasoning model",
+    "thinking",
+    "architecture",
+    "scaling",
+    "llm"
+   ],
+   "short": "LLM basics"
+  },
+  {
+   "id": "context-eng",
+   "title": "Prompting → context engineering",
+   "what": "Designing everything the model sees: instructions, examples, retrieved documents, tool results and memory, not just the wording of one prompt.",
+   "why": "The 2026 shift: agents run for many steps, so what goes into (and gets dropped from) their context decides quality and cost. Prompt caching price cuts make long, stable context cheaper.",
+   "how": {
+    "1": "Learn the basics: be specific, give examples, say the format you want.",
+    "2": "Use structured prompts, examples and step-by-step instructions on real tasks.",
+    "3": "Manage context for agents: compaction, retrieval, tool results, caching.",
+    "4": "Measure context strategies with evals; design memory for long-running agents."
+   },
+   "weights": {
+    "swe": 3,
+    "aieng": 3,
+    "data": 3,
+    "pm": 3,
+    "design": 2,
+    "lead": 1,
+    "student": 3,
+    "biz": 3
+   },
+   "levels": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "refs": [
+    {
+     "t": "Claude docs: Prompt engineering overview",
+     "u": "https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/overview",
+     "lvl": 1,
+     "kind": "Docs",
+     "free": true
+    },
+    {
+     "t": "OpenAI: Prompt engineering guide",
+     "u": "https://platform.openai.com/docs/guides/prompt-engineering",
+     "lvl": 1,
+     "kind": "Docs",
+     "free": true
+    },
+    {
+     "t": "Gemini: Prompting strategies",
+     "u": "https://ai.google.dev/gemini-api/docs/prompting-strategies",
+     "lvl": 1,
+     "kind": "Docs",
+     "free": true
+    },
+    {
+     "t": "Anthropic interactive prompt engineering tutorial",
+     "u": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+     "lvl": 2,
+     "kind": "Course",
+     "free": true
+    },
+    {
+     "t": "Anthropic: Effective context engineering for AI agents",
+     "u": "https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents",
+     "lvl": 3,
+     "kind": "Article",
+     "free": true
+    }
+   ],
+   "keywords": [
+    "prompt",
+    "context engineering",
+    "prompt caching",
+    "system prompt",
+    "compaction",
+    "few-shot"
+   ],
+   "short": "Context"
+  },
+  {
+   "id": "coding-agents",
+   "title": "Coding agents",
+   "what": "Tools like Claude Code, OpenAI Codex, Gemini CLI and Cursor that read a codebase, edit files, run tests and fix bugs from a plain-language goal.",
+   "why": "At the 2026 AI Engineer World's Fair the headline was 'coding agents replace IDEs'. Knowing how to steer them (plans, tests, review) is now a core engineering skill.",
+   "how": {
+    "1": "Try one coding agent on a small personal project.",
+    "2": "Use a coding agent daily; learn to give it a plan and a test to pass.",
+    "3": "Set up project instructions, custom commands and CI checks for agents.",
+    "4": "Run agents in parallel, automate with the SDKs, and measure their output quality."
+   },
+   "weights": {
+    "swe": 3,
+    "aieng": 3,
+    "data": 2,
+    "pm": 1,
+    "design": 1,
+    "lead": 1,
+    "student": 3,
+    "biz": 0
+   },
+   "levels": [
+    2,
+    3,
+    4
+   ],
+   "refs": [
+    {
+     "t": "Claude Code documentation",
+     "u": "https://docs.claude.com/en/docs/claude-code/overview",
+     "lvl": 2,
+     "kind": "Docs",
+     "free": true
+    },
+    {
+     "t": "Anthropic: Claude Code best practices",
+     "u": "https://www.anthropic.com/engineering/claude-code-best-practices",
+     "lvl": 3,
+     "kind": "Article",
+     "free": true
+    },
+    {
+     "t": "OpenAI Codex",
+     "u": "https://developers.openai.com/codex",
+     "lvl": 2,
+     "kind": "Docs",
+     "free": true
+    },
+    {
+     "t": "Gemini CLI",
+     "u": "https://github.com/google-gemini/gemini-cli",
+     "lvl": 2,
+     "kind": "Code",
+     "free": true
+    },
+    {
+     "t": "Latent Space: 5 trends from AI Engineer World's Fair 2026",
+     "u": "https://www.latent.space/p/aiewf26trends",
+     "lvl": 3,
+     "kind": "Article",
+     "free": true
+    }
+   ],
+   "keywords": [
+    "claude code",
+    "codex",
+    "cursor",
+    "gemini cli",
+    "coding agent",
+    "copilot",
+    "swe-bench",
+    "deepswe",
+    "terminal-bench",
+    "ide"
+   ],
+   "short": "Coding agents"
+  },
+  {
+   "id": "agents",
+   "title": "Agents and the harness around them",
+   "what": "LLMs that plan and act in a loop with tools. The 2026 focus is the 'harness': permissions, context, human checkpoints and feedback loops around the model.",
+   "why": "Engineers are moving from building one-off agents to 'loop engineering': agents run the inner loop, humans steer the outer loop with evals and review.",
+   "how": {
+    "2": "Learn the difference between workflows and agents; try an agent product.",
+    "3": "Build a small agent with an SDK; add tools, limits and a human approval step.",
+    "4": "Design multi-agent systems, long-running tasks and recovery from failure."
+   },
+   "weights": {
+    "swe": 3,
+    "aieng": 3,
+    "data": 2,
+    "pm": 2,
+    "design": 1,
+    "lead": 2,
+    "student": 2,
+    "biz": 1
+   },
+   "levels": [
+    2,
+    3,
+    4
+   ],
+   "refs": [
+    {
+     "t": "Anthropic: Building effective agents",
+     "u": "https://www.anthropic.com/engineering/building-effective-agents",
+     "lvl": 2,
+     "kind": "Article",
+     "free": true
+    },
+    {
+     "t": "DeepLearning.AI short courses (agents)",
+     "u": "https://www.deeplearning.ai/short-courses/",
+     "lvl": 2,
+     "kind": "Course",
+     "free": true
+    },
+    {
+     "t": "Hugging Face Agents Course",
+     "u": "https://huggingface.co/learn/agents-course",
+     "lvl": 3,
+     "kind": "Course",
+     "free": true
+    },
+    {
+     "t": "Claude Agent SDK",
+     "u": "https://docs.claude.com/en/docs/agent-sdk/overview",
+     "lvl": 3,
+     "kind": "Docs",
+     "free": true
+    },
+    {
+     "t": "OpenAI Agents SDK",
+     "u": "https://openai.github.io/openai-agents-python/",
+     "lvl": 3,
+     "kind": "Docs",
+     "free": true
+    },
+    {
+     "t": "Anthropic: Writing effective tools for agents",
+     "u": "https://www.anthropic.com/engineering/writing-tools-for-agents",
+     "lvl": 4,
+     "kind": "Article",
+     "free": true
+    }
+   ],
+   "keywords": [
+    "agent",
+    "agentic",
+    "multi-agent",
+    "harness",
+    "autonomous",
+    "computer use",
+    "browser agent",
+    "orchestration",
+    "long-running"
+   ],
+   "short": "Agents"
+  },
+  {
+   "id": "mcp",
+   "title": "MCP (Model Context Protocol)",
+   "what": "An open standard for connecting AI apps to tools and data. An MCP server exposes tools, resources and prompts; any MCP-capable client (Claude, ChatGPT, IDEs, agents) can use it.",
+   "why": "The 2026-07-28 spec is the biggest update yet: a stateless core (no initialize handshake or session IDs, so servers scale behind load balancers), multi-round-trip requests for mid-call confirmations, header-based routing, cacheable list results, and hardened OAuth (Client ID Metadata Documents replace dynamic client registration). Sampling, Roots, Logging and the old HTTP+SSE transport are deprecated. The August roadmap adds agent identity, long-running tasks and progressive tool discovery.",
+   "how": {
+    "2": "Understand what MCP is and connect an existing MCP server to your assistant.",
+    "3": "Build a small MCP server with the Python or TypeScript SDK against the 2026-07-28 spec.",
+    "4": "Migrate servers to the stateless model and new auth; deploy behind a gateway."
+   },
+   "weights": {
+    "swe": 3,
+    "aieng": 3,
+    "data": 2,
+    "pm": 2,
+    "design": 1,
+    "lead": 1,
+    "student": 2,
+    "biz": 1
+   },
+   "levels": [
+    2,
+    3,
+    4
+   ],
+   "refs": [
+    {
+     "t": "MCP: Introduction",
+     "u": "https://modelcontextprotocol.io/docs/getting-started/intro",
+     "lvl": 2,
+     "kind": "Docs",
+     "free": true
+    },
+    {
+     "t": "Anthropic Academy: MCP courses",
+     "u": "https://anthropic.skilljar.com/",
+     "lvl": 2,
+     "kind": "Course",
+     "free": true
+    },
+    {
+     "t": "Build an MCP server (2026-07-28)",
+     "u": "https://modelcontextprotocol.io/docs/2026-07-28/develop/build-server",
+     "lvl": 3,
+     "kind": "Docs",
+     "free": true
+    },
+    {
+     "t": "What's new in the 2026-07-28 spec",
+     "u": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
+     "lvl": 3,
+     "kind": "Article",
+     "free": true
+    },
+    {
+     "t": "The new MCP roadmap (Aug 2026)",
+     "u": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+     "lvl": 4,
+     "kind": "Article",
+     "free": true
+    },
+    {
+     "t": "MCP specification 2026-07-28",
+     "u": "https://modelcontextprotocol.io/specification/2026-07-28",
+     "lvl": 4,
+     "kind": "Spec",
+     "free": true
+    },
+    {
+     "t": "WorkOS: What changes for agent authentication",
+     "u": "https://workos.com/blog/mcp-2026-spec-agent-authentication",
+     "lvl": 4,
+     "kind": "Article",
+     "free": true
+    }
+   ],
+   "keywords": [
+    "mcp",
+    "model context protocol",
+    "mcp server",
+    "tool server",
+    "connector"
+   ],
+   "short": "MCP"
+  },
+  {
+   "id": "skills",
+   "title": "Agent Skills",
+   "what": "Folders of instructions, scripts and resources that an agent loads only when a task needs them, so it can follow your team's way of doing things.",
+   "why": "One of the five trends of 2026: agent platforms are organising around skills because they're portable, reusable and cut orchestration code.",
+   "how": {
+    "2": "Install and use a ready-made skill in your assistant.",
+    "3": "Write a skill for a workflow your team repeats.",
+    "4": "Build a skill library with evaluation and versioning."
+   },
+   "weights": {
+    "swe": 2,
+    "aieng": 3,
+    "data": 2,
+    "pm": 2,
+    "design": 1,
+    "lead": 1,
+    "student": 1,
+    "biz": 2
+   },
+   "levels": [
+    2,
+    3,
+    4
+   ],
+   "refs": [
+    {
+     "t": "Claude docs: Agent Skills overview",
+     "u": "https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview",
+     "lvl": 2,
+     "kind": "Docs",
+     "free": true
+    },
+    {
+     "t": "Anthropic: Equipping agents for the real world with Agent Skills",
+     "u": "https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills",
+     "lvl": 3,
+     "kind": "Article",
+     "free": true
+    },
+    {
+     "t": "anthropics/skills examples",
+     "u": "https://github.com/anthropics/skills",
+     "lvl": 3,
+     "kind": "Code",
+     "free": true
+    }
+   ],
+   "keywords": [
+    "skills",
+    "agent skills",
+    "skill.md",
+    "plugin"
+   ],
+   "short": "Skills"
+  },
+  {
+   "id": "tools",
+   "title": "Tool use and structured outputs",
+   "what": "Letting a model call functions you define and return data in an exact JSON shape your code can trust.",
+   "why": "Every agent and integration is built on this. Newer models make fewer tool calls for the same result (e.g. Meta reports ~20% fewer in Muse Spark 1.3), so tool design matters more than volume.",
+   "how": {
+    "3": "Add one tool and a structured output to an app.",
+    "4": "Design tool sets for agents: naming, descriptions, error messages, token budgets."
+   },
+   "weights": {
+    "swe": 3,
+    "aieng": 3,
+    "data": 2,
+    "pm": 0,
+    "design": 0,
+    "lead": 0,
+    "student": 2,
+    "biz": 0
+   },
+   "levels": [
+    3,
+    4
+   ],
+   "refs": [
+    {
+     "t": "Claude: Tool use",
+     "u": "https://docs.claude.com/en/docs/agents-and-tools/tool-use/overview",
+     "lvl": 3,
+     "kind": "Docs",
+     "free": true
+    },
+    {
+     "t": "OpenAI: Function calling",
+     "u": "https://platform.openai.com/docs/guides/function-calling",
+     "lvl": 3,
+     "kind": "Docs",
+     "free": true
+    },
+    {
+     "t": "OpenAI: Structured outputs",
+     "u": "https://platform.openai.com/docs/guides/structured-outputs",
+     "lvl": 3,
+     "kind": "Docs",
+     "free": true
+    },
+    {
+     "t": "Anthropic: Writing effective tools for agents",
+     "u": "https://www.anthropic.com/engineering/writing-tools-for-agents",
+     "lvl": 4,
+     "kind": "Article",
+     "free": true
+    }
+   ],
+   "keywords": [
+    "tool use",
+    "function calling",
+    "structured output",
+    "json mode",
+    "tool call"
+   ],
+   "short": "Tool use"
+  },
+  {
+   "id": "rag",
+   "title": "Retrieval (RAG) and memory",
+   "what": "Fetching the right documents or facts and giving them to the model at answer time, plus memory that carries across sessions.",
+   "why": "With 1M-token context windows common, the question is now when to retrieve versus when to just include everything, and how to keep long-running agents' memory accurate.",
+   "how": {
+    "3": "Build a basic RAG pipeline over your own documents.",
+    "4": "Improve retrieval with hybrid search, reranking and contextual chunking; evaluate it."
+   },
+   "weights": {
+    "swe": 2,
+    "aieng": 3,
+    "data": 3,
+    "pm": 1,
+    "design": 0,
+    "lead": 0,
+    "student": 2,
+    "biz": 0
+   },
+   "levels": [
+    3,
+    4
+   ],
+   "refs": [
+    {
+     "t": "Pinecone Learning Center",
+     "u": "https://www.pinecone.io/learn/",
+     "lvl": 3,
+     "kind": "Course",
+     "free": true
+    },
+    {
+     "t": "Anthropic: Contextual Retrieval",
+     "u": "https://www.anthropic.com/news/contextual-retrieval",
+     "lvl": 3,
+     "kind": "Article",
+     "free": true
+    },
+    {
+     "t": "Hugging Face cookbook: Advanced RAG",
+     "u": "https://huggingface.co/learn/cookbook/advanced_rag",
+     "lvl": 4,
+     "kind": "Code",
+     "free": true
+    }
+   ],
+   "keywords": [
+    "rag",
+    "retrieval",
+    "vector",
+    "embedding",
+    "memory",
+    "search",
+    "rerank"
+   ],
+   "short": "RAG"
+  },
+  {
+   "id": "evals",
+   "title": "Evals and observability",
+   "what": "Measuring whether your AI feature actually works: test sets, graders (including LLM-as-judge), error analysis and production tracing.",
+   "why": "Evals are the 'outer loop' that lets humans steer agents. Teams that measure ship faster and catch regressions when they switch models, which now happens every few weeks.",
+   "how": {
+    "2": "Learn why evals matter and how to read a benchmark critically.",
+    "3": "Write a small eval set for one feature and run it on two models.",
+    "4": "Build continuous evals, error analysis and tracing into your release process."
+   },
+   "weights": {
+    "swe": 2,
+    "aieng": 3,
+    "data": 3,
+    "pm": 3,
+    "design": 1,
+    "lead": 2,
+    "student": 1,
+    "biz": 0
+   },
+   "levels": [
+    2,
+    3,
+    4
+   ],
+   "refs": [
+    {
+     "t": "Hamel Husain: Your AI product needs evals",
+     "u": "https://hamel.dev/blog/posts/evals/",
+     "lvl": 2,
+     "kind": "Article",
+     "free": true
+    },
+    {
+     "t": "Claude docs: Define success criteria and build evals",
+     "u": "https://docs.claude.com/en/docs/test-and-evaluate/define-success",
+     "lvl": 3,
+     "kind": "Docs",
+     "free": true
+    },
+    {
+     "t": "OpenAI: Evals guide",
+     "u": "https://platform.openai.com/docs/guides/evals",
+     "lvl": 3,
+     "kind": "Docs",
+     "free": true
+    },
+    {
+     "t": "Eugene Yan: Task-specific LLM evals",
+     "u": "https://eugeneyan.com/writing/evals/",
+     "lvl": 4,
+     "kind": "Article",
+     "free": true
+    }
+   ],
+   "keywords": [
+    "eval",
+    "benchmark",
+    "llm-as-judge",
+    "observability",
+    "tracing",
+    "leaderboard",
+    "hle",
+    "swe-bench"
+   ],
+   "short": "Evals"
+  },
+  {
+   "id": "open-models",
+   "title": "Open-weight models and running AI locally",
+   "what": "Models whose weights you can download and run yourself (Kimi, GLM, DeepSeek, Qwen, Mistral, Llama, Nemotron, MiMo), plus the tools to run them.",
+   "why": "Open models are close to the frontier: Kimi K3 (2.8T parameters), GLM-5.3 and DeepSeek V4 have MIT-style licences, and compression like 1.76-bit ternary weights lets 27B models run on small hardware.",
+   "how": {
+    "2": "Run a small model on your laptop with Ollama.",
+    "3": "Compare an open model with an API model on your own task.",
+    "4": "Serve open models efficiently (vLLM, quantisation) and weigh licences."
+   },
+   "weights": {
+    "swe": 2,
+    "aieng": 3,
+    "data": 2,
+    "pm": 1,
+    "design": 0,
+    "lead": 1,
+    "student": 2,
+    "biz": 0
+   },
+   "levels": [
+    2,
+    3,
+    4
+   ],
+   "refs": [
+    {
+     "t": "Ollama",
+     "u": "https://ollama.com",
+     "lvl": 2,
+     "kind": "Tool",
+     "free": true
+    },
+    {
+     "t": "Hugging Face: Best open-source LLMs 2026",
+     "u": "https://huggingface.co/blog/daya-shankar/open-source-llms",
+     "lvl": 3,
+     "kind": "Article",
+     "free": true
+    },
+    {
+     "t": "Hugging Face model hub",
+     "u": "https://huggingface.co/models",
+     "lvl": 3,
+     "kind": "Tool",
+     "free": true
+    },
+    {
+     "t": "llama.cpp",
+     "u": "https://github.com/ggml-org/llama.cpp",
+     "lvl": 4,
+     "kind": "Code",
+     "free": true
+    },
+    {
+     "t": "vLLM documentation",
+     "u": "https://docs.vllm.ai",
+     "lvl": 4,
+     "kind": "Docs",
+     "free": true
+    }
+   ],
+   "keywords": [
+    "open-weight",
+    "open source",
+    "open-source",
+    "llama",
+    "qwen",
+    "deepseek",
+    "mistral",
+    "glm",
+    "kimi",
+    "nemotron",
+    "gemma",
+    "ollama",
+    "quantization",
+    "local"
+   ],
+   "short": "Open models"
+  },
+  {
+   "id": "multimodal",
+   "title": "Multimodal and voice",
+   "what": "Models that see images and video, listen and speak in real time, and generate images or audio.",
+   "why": "September 2026 brought native omnimodal models (Qwen3.8-Omni-Flash), Gemini 3.8 TTS with 150+ voices, and real-time speaking avatars. Voice agents are becoming a mainstream interface.",
+   "how": {
+    "2": "Try voice mode and image understanding on real tasks.",
+    "3": "Add image input or speech to an app.",
+    "4": "Build real-time voice agents; handle latency and turn-taking."
+   },
+   "weights": {
+    "swe": 1,
+    "aieng": 2,
+    "data": 1,
+    "pm": 2,
+    "design": 3,
+    "lead": 1,
+    "student": 1,
+    "biz": 1
+   },
+   "levels": [
+    2,
+    3,
+    4
+   ],
+   "refs": [
+    {
+     "t": "Claude: Vision",
+     "u": "https://docs.claude.com/en/docs/build-with-claude/vision",
+     "lvl": 3,
+     "kind": "Docs",
+     "free": true
+    },
+    {
+     "t": "Gemini API documentation",
+     "u": "https://ai.google.dev/gemini-api/docs",
+     "lvl": 3,
+     "kind": "Docs",
+     "free": true
+    },
+    {
+     "t": "OpenAI: Realtime and voice",
+     "u": "https://platform.openai.com/docs/guides/realtime",
+     "lvl": 4,
+     "kind": "Docs",
+     "free": true
+    }
+   ],
+   "keywords": [
+    "multimodal",
+    "vision",
+    "voice",
+    "speech",
+    "tts",
+    "audio",
+    "video",
+    "image",
+    "omni",
+    "avatar"
+   ],
+   "short": "Multimodal"
+  },
+  {
+   "id": "cost",
+   "title": "Cost, speed and choosing models",
+   "what": "Picking the right model for each job, and cutting cost and latency with prompt caching, batching, routing and smaller models.",
+   "why": "Prices keep falling fast: GPT-6 Sol and Luna launched about 50% cheaper than their predecessors, Claude Opus 5.5 is 40% cheaper than Opus 5, and cache reads dropped sharply. Diffusion language models reach 1,000+ tokens per second.",
+   "how": {
+    "2": "Learn the price and speed tiers of the models you use.",
+    "3": "Add prompt caching and batching; route easy tasks to small models.",
+    "4": "Build cost and latency dashboards; evaluate model swaps automatically."
+   },
+   "weights": {
+    "swe": 2,
+    "aieng": 3,
+    "data": 1,
+    "pm": 2,
+    "design": 0,
+    "lead": 3,
+    "student": 0,
+    "biz": 0
+   },
+   "levels": [
+    2,
+    3,
+    4
+   ],
+   "refs": [
+    {
+     "t": "Artificial Analysis: model speed and price comparisons",
+     "u": "https://artificialanalysis.ai",
+     "lvl": 2,
+     "kind": "Tool",
+     "free": true
+    },
+    {
+     "t": "Claude: Prompt caching",
+     "u": "https://docs.claude.com/en/docs/build-with-claude/prompt-caching",
+     "lvl": 3,
+     "kind": "Docs",
+     "free": true
+    },
+    {
+     "t": "Claude: Batch processing",
+     "u": "https://docs.claude.com/en/docs/build-with-claude/batch-processing",
+     "lvl": 3,
+     "kind": "Docs",
+     "free": true
+    }
+   ],
+   "keywords": [
+    "pricing",
+    "price",
+    "cost",
+    "cheaper",
+    "latency",
+    "tokens per second",
+    "caching",
+    "batch",
+    "throughput"
+   ],
+   "short": "Cost & speed"
+  },
+  {
+   "id": "post-training",
+   "title": "Fine-tuning and post-training",
+   "what": "Adapting models with your own data: supervised fine-tuning, preference tuning and reinforcement learning.",
+   "why": "Labs are gaining most of their improvements from post-training and RL (e.g. Grok 4.7's extended RL, Kimi-based models trained for shorter reasoning). Small teams can now fine-tune open models cheaply.",
+   "how": {
+    "3": "Understand when fine-tuning beats prompting (usually it doesn't).",
+    "4": "Fine-tune an open model with LoRA; learn RLHF and RL from verifiable rewards."
+   },
+   "weights": {
+    "swe": 0,
+    "aieng": 3,
+    "data": 2,
+    "pm": 0,
+    "design": 0,
+    "lead": 0,
+    "student": 1,
+    "biz": 0
+   },
+   "levels": [
+    3,
+    4
+   ],
+   "refs": [
+    {
+     "t": "Unsloth fine-tuning docs",
+     "u": "https://docs.unsloth.ai",
+     "lvl": 3,
+     "kind": "Docs",
+     "free": true
+    },
+    {
+     "t": "Hugging Face TRL",
+     "u": "https://huggingface.co/docs/trl",
+     "lvl": 4,
+     "kind": "Docs",
+     "free": true
+    },
+    {
+     "t": "Nathan Lambert: The RLHF Book",
+     "u": "https://rlhfbook.com",
+     "lvl": 4,
+     "kind": "Book",
+     "free": true
+    }
+   ],
+   "keywords": [
+    "fine-tun",
+    "finetun",
+    "post-training",
+    "rlhf",
+    "reinforcement learning",
+    "lora",
+    "distillation",
+    " rl ",
+    " rl-"
+   ],
+   "short": "Fine-tuning"
+  },
+  {
+   "id": "security",
+   "title": "AI security, safety and trust",
+   "what": "Prompt injection, data leaks through tools, agent permissions and identity, and the safety practices labs and regulators expect.",
+   "why": "Agents act on real systems, so a malicious web page or document can steer them. The MCP 2026 spec hardens OAuth and the roadmap adds agent identity; labs now gate some cyber-capable models.",
+   "how": {
+    "1": "Learn the main risks of sharing data with AI tools.",
+    "2": "Understand prompt injection and least-privilege for AI tools.",
+    "3": "Threat-model your AI feature against the OWASP LLM Top 10.",
+    "4": "Design agent permissions, sandboxing and auth; red-team your agents."
+   },
+   "weights": {
+    "swe": 3,
+    "aieng": 3,
+    "data": 1,
+    "pm": 2,
+    "design": 1,
+    "lead": 3,
+    "student": 1,
+    "biz": 2
+   },
+   "levels": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "refs": [
+    {
+     "t": "OWASP Top 10 for LLM Applications",
+     "u": "https://genai.owasp.org/llm-top-10/",
+     "lvl": 2,
+     "kind": "Guide",
+     "free": true
+    },
+    {
+     "t": "Simon Willison on prompt injection",
+     "u": "https://simonwillison.net/tags/prompt-injection/",
+     "lvl": 3,
+     "kind": "Article",
+     "free": true
+    },
+    {
+     "t": "NIST AI Risk Management Framework",
+     "u": "https://www.nist.gov/itl/ai-risk-management-framework",
+     "lvl": 2,
+     "kind": "Guide",
+     "free": true
+    },
+    {
+     "t": "BlueDot Impact: AI safety courses",
+     "u": "https://bluedot.org",
+     "lvl": 2,
+     "kind": "Course",
+     "free": true
+    },
+    {
+     "t": "WorkOS: MCP 2026 agent authentication",
+     "u": "https://workos.com/blog/mcp-2026-spec-agent-authentication",
+     "lvl": 4,
+     "kind": "Article",
+     "free": true
+    }
+   ],
+   "keywords": [
+    "security",
+    "prompt injection",
+    "jailbreak",
+    "safety",
+    "alignment",
+    "red team",
+    "vulnerab",
+    "cyber",
+    "privacy",
+    "auth"
+   ],
+   "short": "Security"
+  },
+  {
+   "id": "ai-ux",
+   "title": "Designing AI products",
+   "what": "UX patterns for AI: setting expectations, showing uncertainty, handling errors, human control and trust.",
+   "why": "Interfaces are shifting from chat boxes to agents that act and ask clarifying questions (Meta's Muse Spark 1.3 does this by design). Good AI UX is now a differentiator.",
+   "how": {
+    "1": "Learn the basic patterns for AI features.",
+    "2": "Study how leading AI products handle errors and trust.",
+    "3": "Prototype an AI feature with real model output, not placeholders.",
+    "4": "Design agent experiences: approvals, progress, undo, handoff."
+   },
+   "weights": {
+    "swe": 1,
+    "aieng": 1,
+    "data": 1,
+    "pm": 3,
+    "design": 3,
+    "lead": 2,
+    "student": 1,
+    "biz": 1
+   },
+   "levels": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "refs": [
+    {
+     "t": "Google PAIR: People + AI Guidebook",
+     "u": "https://pair.withgoogle.com/guidebook",
+     "lvl": 1,
+     "kind": "Guide",
+     "free": true
+    },
+    {
+     "t": "Shape of AI: UX patterns",
+     "u": "https://www.shapeof.ai",
+     "lvl": 2,
+     "kind": "Guide",
+     "free": true
+    },
+    {
+     "t": "Nielsen Norman Group: AI articles",
+     "u": "https://www.nngroup.com/topic/ai/",
+     "lvl": 2,
+     "kind": "Article",
+     "free": true
+    },
+    {
+     "t": "Microsoft HAX guidelines for human-AI interaction",
+     "u": "https://www.microsoft.com/en-us/haxtoolkit/ai-guidelines/",
+     "lvl": 3,
+     "kind": "Guide",
+     "free": true
+    }
+   ],
+   "keywords": [
+    "ux",
+    "user experience",
+    "interface design",
+    "design pattern",
+    "conversational design",
+    "avatar"
+   ],
+   "short": "AI UX"
+  },
+  {
+   "id": "strategy",
+   "title": "AI strategy, ROI and regulation",
+   "what": "Where AI creates value in a business, how to measure it, how to roll it out safely, and what regulations require.",
+   "why": "AI is entering enterprises through 'forward deployed engineers' and platform teams. Leaders need to pick use cases, budget for fast-falling prices, and track rules like the EU AI Act.",
+   "how": {
+    "1": "Take a non-technical AI overview course.",
+    "2": "Map three use cases in your team with clear success measures.",
+    "3": "Build an adoption plan with evals, security review and cost tracking.",
+    "4": "Set AI governance: model choice, vendor risk, compliance."
+   },
+   "weights": {
+    "swe": 0,
+    "aieng": 1,
+    "data": 1,
+    "pm": 2,
+    "design": 1,
+    "lead": 3,
+    "student": 0,
+    "biz": 2
+   },
+   "levels": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "refs": [
+    {
+     "t": "Coursera: AI for Everyone (Andrew Ng)",
+     "u": "https://www.coursera.org/learn/ai-for-everyone",
+     "lvl": 1,
+     "kind": "Course",
+     "free": true
+    },
+    {
+     "t": "Stanford AI Index report",
+     "u": "https://hai.stanford.edu/ai-index",
+     "lvl": 2,
+     "kind": "Report",
+     "free": true
+    },
+    {
+     "t": "EU AI Act explorer",
+     "u": "https://artificialintelligenceact.eu",
+     "lvl": 3,
+     "kind": "Guide",
+     "free": true
+    },
+    {
+     "t": "Chip Huyen: AI Engineering (book)",
+     "u": "https://www.oreilly.com/library/view/ai-engineering/9781098166298/",
+     "lvl": 3,
+     "kind": "Book",
+     "free": false
+    }
+   ],
+   "keywords": [
+    "regulation",
+    "eu ai act",
+    "policy",
+    "enterprise",
+    "adoption",
+    "roi",
+    "governance",
+    "investment",
+    "funding"
+   ],
+   "short": "Strategy"
+  }
+ ],
+ "models": {
+  "asOf": "27 Sep 2026",
+  "rows": [
+   {
+    "maker": "Anthropic",
+    "models": "Claude Fable 5.1 (most capable), Opus 5.5, Sonnet 5, Haiku 4.5",
+    "note": "Opus 5.5 (22 Sep) matches Fable 5.1 on many tasks at $4/$20 per million tokens, 1M context, 40% cheaper than Opus 5.",
+    "open": false,
+    "src": "https://platform.claude.com/docs/en/about-claude/models/overview"
+   },
+   {
+    "maker": "OpenAI",
+    "models": "GPT-6 Astra (frontier), GPT-6 Sol, GPT-6 Luna",
+    "note": "Sol and Luna (22 Sep) bring Astra improvements to cheaper tiers at about half the previous price; available in API, ChatGPT and Codex.",
+    "open": false,
+    "src": "https://openai.com/index/introducing-gpt-6-sol-and-luna/"
+   },
+   {
+    "maker": "Google",
+    "models": "Gemini 3.8 Flash, 3.8 Flash TTS, Gemini Live avatars",
+    "note": "3.8 Flash (2 Sep) has 1M context and promotional pricing until 31 Dec; new TTS with 150+ voices.",
+    "open": false,
+    "src": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/"
+   },
+   {
+    "maker": "Meta",
+    "models": "Muse Spark 1.3",
+    "note": "Fewer tool calls and tokens than 1.2; asks clarifying questions.",
+    "open": false,
+    "src": "https://www.digitalapplied.com/blog/ai-model-releases-september-2026-tracker"
+   },
+   {
+    "maker": "xAI",
+    "models": "Grok 4.7",
+    "note": "Larger base model with extended RL training; 500K context.",
+    "open": false,
+    "src": "https://www.digitalapplied.com/blog/ai-model-releases-september-2026-tracker"
+   },
+   {
+    "maker": "Alibaba (Qwen)",
+    "models": "Qwen3.8-Max, 3.8-Flash, 3.8-Omni-Flash",
+    "note": "Omni-Flash (18 Sep) handles text, image, audio and video natively.",
+    "open": false,
+    "src": "https://www.digitalapplied.com/blog/ai-model-releases-september-2026-tracker"
+   },
+   {
+    "maker": "Open weights",
+    "models": "Kimi K3, GLM-5.3, DeepSeek V4 Pro/Flash, Mistral Small 4, Llama 4 Maverick, Nemotron 3 Super, Xiaomi MiMo-V2.6",
+    "note": "Mostly MIT or Apache-style licences; Kimi K3 is the largest at 2.8T parameters (50B active).",
+    "open": true,
+    "src": "https://www.thundercompute.com/blog/best-open-source-llms"
+   },
+   {
+    "maker": "New directions",
+    "models": "Mercury 2.5 (diffusion LM), Ternary Bonsai 2 (1.76-bit weights)",
+    "note": "Diffusion models generate 1,000+ tokens per second; extreme compression keeps ~98% of quality.",
+    "open": null,
+    "src": "https://www.digitalapplied.com/blog/ai-model-releases-september-2026-tracker"
+   }
+  ]
+ },
+ "follow": [
+  {
+   "t": "Latent Space (AI engineering newsletter and podcast)",
+   "u": "https://www.latent.space",
+   "lvl": 2,
+   "kind": "Newsletter",
+   "free": true
+  },
+  {
+   "t": "Simon Willison's blog",
+   "u": "https://simonwillison.net",
+   "lvl": 2,
+   "kind": "Blog",
+   "free": true
+  },
+  {
+   "t": "The Batch by DeepLearning.AI",
+   "u": "https://www.deeplearning.ai/the-batch/",
+   "lvl": 1,
+   "kind": "Newsletter",
+   "free": true
+  },
+  {
+   "t": "Import AI (Jack Clark)",
+   "u": "https://jack-clark.net",
+   "lvl": 3,
+   "kind": "Newsletter",
+   "free": true
+  },
+  {
+   "t": "Interconnects (Nathan Lambert)",
+   "u": "https://www.interconnects.ai",
+   "lvl": 4,
+   "kind": "Newsletter",
+   "free": true
+  },
+  {
+   "t": "Hugging Face blog",
+   "u": "https://huggingface.co/blog",
+   "lvl": 3,
+   "kind": "Blog",
+   "free": true
+  },
+  {
+   "t": "MCP blog",
+   "u": "https://blog.modelcontextprotocol.io",
+   "lvl": 3,
+   "kind": "Blog",
+   "free": true
+  },
+  {
+   "t": "Anthropic engineering blog",
+   "u": "https://www.anthropic.com/engineering",
+   "lvl": 3,
+   "kind": "Blog",
+   "free": true
+  }
+ ]
+}

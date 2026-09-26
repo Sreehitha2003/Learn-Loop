@@ -1,0 +1,57 @@
+[
+ {
+  "name": "OpenAI",
+  "url": "https://openai.com/news/rss.xml"
+ },
+ {
+  "name": "Google AI",
+  "url": "https://blog.google/technology/ai/rss/"
+ },
+ {
+  "name": "Google DeepMind",
+  "url": "https://deepmind.google/blog/rss.xml"
+ },
+ {
+  "name": "Hugging Face",
+  "url": "https://huggingface.co/blog/feed.xml"
+ },
+ {
+  "name": "MCP blog",
+  "url": "https://blog.modelcontextprotocol.io/index.xml"
+ },
+ {
+  "name": "Simon Willison",
+  "url": "https://simonwillison.net/atom/everything/"
+ },
+ {
+  "name": "Latent Space",
+  "url": "https://www.latent.space/feed"
+ },
+ {
+  "name": "MIT Technology Review",
+  "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed"
+ },
+ {
+  "name": "The Verge AI",
+  "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
+ },
+ {
+  "name": "Hacker News",
+  "url": "https://hnrss.org/newest?q=LLM+OR+MCP+OR+Claude+OR+GPT+OR+Gemini&points=150"
+ },
+ {
+  "name": "News: Anthropic",
+  "url": "https://news.google.com/rss/search?q=Anthropic+Claude+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
+  "max": 8
+ },
+ {
+  "name": "News: MCP",
+  "url": "https://news.google.com/rss/search?q=%22Model+Context+Protocol%22+when:14d&hl=en-IN&gl=IN&ceid=IN:en",
+  "max": 6
+ },
+ {
+  "name": "News: AI models",
+  "url": "https://news.google.com/rss/search?q=new+AI+model+launch+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
+  "max": 8
+ }
+]
