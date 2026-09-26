@@ -1,4 +1,70 @@
 {
  "date": "2026-09-27",
- "health": []
+ "health": [
+  {
+   "source": "OpenAI",
+   "ok": true,
+   "items": 29
+  },
+  {
+   "source": "Google AI",
+   "ok": true,
+   "items": 6
+  },
+  {
+   "source": "Google DeepMind",
+   "ok": true,
+   "items": 4
+  },
+  {
+   "source": "Hugging Face",
+   "ok": true,
+   "items": 5
+  },
+  {
+   "source": "MCP blog",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "source": "Simon Willison",
+   "ok": true,
+   "items": 19
+  },
+  {
+   "source": "Latent Space",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "source": "MIT Technology Review",
+   "ok": true,
+   "items": 5
+  },
+  {
+   "source": "The Verge AI",
+   "ok": true,
+   "items": 9
+  },
+  {
+   "source": "Hacker News",
+   "ok": false,
+   "error": "HTTP 502"
+  },
+  {
+   "source": "News: Anthropic",
+   "ok": true,
+   "items": 8
+  },
+  {
+   "source": "News: MCP",
+   "ok": true,
+   "items": 6
+  },
+  {
+   "source": "News: AI models",
+   "ok": true,
+   "items": 8
+  }
+ ]
 }
