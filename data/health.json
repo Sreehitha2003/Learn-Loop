@@ -44,12 +44,12 @@
   {
    "source": "The Verge AI",
    "ok": true,
-   "items": 9
+   "items": 10
   },
   {
    "source": "Hacker News",
-   "ok": false,
-   "error": "HTTP 502"
+   "ok": true,
+   "items": 20
   },
   {
    "source": "News: Anthropic",

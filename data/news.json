@@ -22,6 +22,26 @@
   "firstSeen": "2026-09-27"
  },
  {
+  "t": "OpenAI pauses training of its ‘most capable models’",
+  "u": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+  "d": "2026-09-26",
+  "sum": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tested within a sandbox ",
+  "src": "The Verge AI",
+  "topics": [],
+  "launch": false,
+  "firstSeen": "2026-09-27"
+ },
+ {
+  "t": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+  "u": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+  "d": "2026-09-26",
+  "sum": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last joined us on the show about two and a half years ago, at what we thought then was a wild pivot point for the int",
+  "src": "The Verge AI",
+  "topics": [],
+  "launch": false,
+  "firstSeen": "2026-09-27"
+ },
+ {
   "t": "Note on 24th September 2026",
   "u": "https://simonwillison.net/2026/Sep/24/harder/",
   "d": "2026-09-25",
@@ -210,14 +230,37 @@
   "firstSeen": "2026-09-27"
  },
  {
-  "t": "Muse sure looks a lot like OpenClaw",
-  "u": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
+  "t": "Best LLM for every budget, updated daily",
+  "u": "https://bestmodelforyourbudget.terrydjony.com/",
   "d": "2026-09-24",
-  "sum": "We seem to be entering into an AI agent renaissance. Meta's new consumer-facing AI agent, Muse, topped the App Store charts soon after its release and has 600,000 daily active users in the US, by an Apptopia estimate. And AI agent platform Instinct, whose epon",
-  "src": "The Verge AI",
+  "sum": "Article URL: https://bestmodelforyourbudget.terrydjony.com/ Comments URL: https://news.ycombinator.com/item?id=49830866 Points: 182 # Comments: 112",
+  "src": "Hacker News",
   "topics": [
-   "agents"
+   "fundamentals"
   ],
+  "launch": false,
+  "firstSeen": "2026-09-27"
+ },
+ {
+  "t": "Mercury 2.5 LLM hits 770 tokens per second",
+  "u": "https://artificialanalysis.ai/models/mercury-2-5",
+  "d": "2026-09-24",
+  "sum": "Article URL: https://artificialanalysis.ai/models/mercury-2-5 Comments URL: https://news.ycombinator.com/item?id=49823348 Points: 150 # Comments: 92",
+  "src": "Hacker News",
+  "topics": [
+   "fundamentals",
+   "cost"
+  ],
+  "launch": false,
+  "firstSeen": "2026-09-27"
+ },
+ {
+  "t": "Once Claude can measure something, it can make it faster",
+  "u": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
+  "d": "2026-09-24",
+  "sum": "Article URL: https://claude.dev/blog/how-we-made-claude-ai-faster/ Comments URL: https://news.ycombinator.com/item?id=49821196 Points: 227 # Comments: 152",
+  "src": "Hacker News",
+  "topics": [],
   "launch": false,
   "firstSeen": "2026-09-27"
  },
@@ -242,11 +285,21 @@
   "firstSeen": "2026-09-27"
  },
  {
+  "t": "Anthropic Makes Claude 3x Faster on Web & Desktop",
+  "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQamRGeUYzTjlzalZEZkc1UUlvdnlqSjcyY2ZmdEotWG0yaG85a2tuTFAtTF93U1VacnduRklLNHhFc0lWZDZNcEViSndYeHlqaWN0WlNHUHdRN3h0T1o4dlhZUkllY1JRWG9UbUgtUHdONU9TREc0Z2txQjltN3pWWmg1SlZ6UlBsTHVhT1JR?oc=5",
+  "d": "2026-09-24",
+  "sum": "Anthropic Makes Claude 3x Faster on Web & Desktop analyticsindiamag.com",
+  "src": "analyticsindiamag.com",
+  "topics": [],
+  "launch": false,
+  "firstSeen": "2026-09-27"
+ },
+ {
   "t": "Model Context Protocol Server and AI Agent Government Hackathon",
   "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRHlZRzVtNlV4ZWl6ZUFodUoxNjdGbFFPSDJ4Q2szU1hEMXB1dHFPY1VkYU5kMlVhSEdzSThBT1NVeXN0bFRUVnlvRlBFVzE4eGIzZFpfT3NUcHBxOFJoejNhbC1MWjZVaXptT1RXQVY0ZGlQa29DZEl1YVlJZVlremZxMHVzQXhHXzExSm1vWGw1X3o4R1NIcGU4ckFKcXJqcTZYdEZxMW02ZjFEZEt4SERsRWdBTlM3ODhoN2pMS09GN3FTNTIzdG5HeHRIdw?oc=5",
   "d": "2026-09-24",
-  "sum": "Model Context Protocol Server and AI Agent Government Hackathon gsa.gov",
-  "src": "gsa.gov",
+  "sum": "Model Context Protocol Server and AI Agent Government Hackathon GSA (.gov)",
+  "src": "GSA (.gov)",
   "topics": [
    "agents",
    "mcp"
@@ -274,6 +327,18 @@
   "src": "SAS: Data and AI Solutions",
   "topics": [
    "mcp"
+  ],
+  "launch": false,
+  "firstSeen": "2026-09-27"
+ },
+ {
+  "t": "Muse sure looks a lot like OpenClaw",
+  "u": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
+  "d": "2026-09-24",
+  "sum": "We seem to be entering into an AI agent renaissance. Meta's new consumer-facing AI agent, Muse, topped the App Store charts soon after its release and has 600,000 daily active users in the US, by an Apptopia estimate. And AI agent platform Instinct, whose epon",
+  "src": "The Verge AI",
+  "topics": [
+   "agents"
   ],
   "launch": false,
   "firstSeen": "2026-09-27"
@@ -520,11 +585,58 @@
  },
  {
   "t": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-  "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JT0FwTVctZXNkYnJXeW44aHhoZmJfbDYwN3B4a2tMTThJZm9XRklxMkEzdFlxb2Z6VGM2UnpDTGlaQ09PODJUMkJFWWl1UVZOTDJ0WU1UQ1pZMDlrbS0tM3FTS0RGWmNSeGt5QlJjZktQWkl4N0E?oc=5",
+  "u": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
   "d": "2026-09-23",
-  "sum": "Claude discovers a novel enzyme system with CRISPR-like repeats Anthropic",
-  "src": "Anthropic",
+  "sum": "Article URL: https://www.anthropic.com/news/claude-discovers-novel-enzyme-system Comments URL: https://news.ycombinator.com/item?id=49820134 Points: 780 # Comments: 799",
+  "src": "Hacker News",
   "topics": [],
+  "launch": false,
+  "firstSeen": "2026-09-27"
+ },
+ {
+  "t": "Gemini 3.8 text-to-speech",
+  "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
+  "d": "2026-09-23",
+  "sum": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/ Comments URL: https://news.ycombinator.com/item?id=49817615 Points: 330 # Comments: 151",
+  "src": "Hacker News",
+  "topics": [
+   "multimodal"
+  ],
+  "launch": false,
+  "firstSeen": "2026-09-27"
+ },
+ {
+  "t": "GPT-6 Astra has gained the ability to drive a car",
+  "u": "https://drivingbench.com/",
+  "d": "2026-09-23",
+  "sum": "Article URL: https://drivingbench.com/ Comments URL: https://news.ycombinator.com/item?id=49817404 Points: 314 # Comments: 248",
+  "src": "Hacker News",
+  "topics": [],
+  "launch": false,
+  "firstSeen": "2026-09-27"
+ },
+ {
+  "t": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
+  "u": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+  "d": "2026-09-23",
+  "sum": "Article URL: https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/ Comments URL: https://news.ycombinator.com/item?id=49814947 Points: 485 # Comments: 284",
+  "src": "Hacker News",
+  "topics": [
+   "coding-agents",
+   "agents"
+  ],
+  "launch": false,
+  "firstSeen": "2026-09-27"
+ },
+ {
+  "t": "LLM Ass Bench",
+  "u": "https://www.assbench.com/",
+  "d": "2026-09-23",
+  "sum": "Article URL: https://www.assbench.com/ Comments URL: https://news.ycombinator.com/item?id=49807688 Points: 167 # Comments: 46",
+  "src": "Hacker News",
+  "topics": [
+   "fundamentals"
+  ],
   "launch": false,
   "firstSeen": "2026-09-27"
  },
@@ -532,8 +644,8 @@
   "t": "Anthropic’s Claude Opus 5.5 is faster, cheaper and matches Fable 5.1 on most work",
   "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQTHlUTkNSV2hub3NwdmQ0b09TWV9hYWZ1MTdkeFlmTFdEYWhlMmhoV0I4ZWtfNFM0NnBGOV9FbkhPOU9DS0VOMUJMLW9RT3hxUmxCLXkwSkJjbzM1SnQ5NGJRUmgwUWRnTl9WNlZVOEQyNTRYSzBRWTJrbFJ4cTZuVkl6cVdoaVJYek5nYmtHLTZ1a09iMjR6NWhmdE9nRjhNSjFTbWVQeFUyX2k2VnlYMlk1eU1VQml3MjJlLWdpdnE3TzZJVjN4a2ZHc3R5d3FGQlRCU1UwVV9telNBcUUwUnJ6ZGVfX0x1WGFZcmdSYmphZkFT0gH6AUFVX3lxTFBFdzl5X3kyWTUwZ2VNUU11VmRvLTN6N29qa2c2QTZ3T3lYbkVPaFV1aWJDZnBfdlFxUmNmRS1GS3QwSFE3SlFDM3I5X2JmRkJXa0hlTklBSmhpbTVzUjlIZzF6QWxod0lLQ2lSTTN1Vk9ESkx0UDVXRVl3aFoxekVyb0xfa0R6X1JZcVdpVjdZbGtpTlpzYkV0NWp3azVfSnk4Si1MRmp6UjB3bmlqdlktbkFEQ0ljRDB3NFNxOWY3blQxR0NET1oxcEVfYW1GTGhId2xTenhEcldBNUVySFEwbVQ4VVVQeERCYTJpNnVTYjVkalR2Wk9DY1E?oc=5",
   "d": "2026-09-23",
-  "sum": "Anthropic’s Claude Opus 5.5 is faster, cheaper and matches Fable 5.1 on most work The Times of India",
-  "src": "The Times of India",
+  "sum": "Anthropic’s Claude Opus 5.5 is faster, cheaper and matches Fable 5.1 on most work timesofindia.indiatimes.com",
+  "src": "timesofindia.indiatimes.com",
   "topics": [
    "cost"
   ],
@@ -544,8 +656,8 @@
   "t": "Anthropic Launches New Version Of Its Claude Amid Global AI Slowdown Calls",
   "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOM3NTcllWTk8yemhNOEhkc0FHSDhVaVVDd1dXOVNQOEdoMmlQNzJzRUJpajB0V1RJaDVkVDVMQzZLVFdRTTlXMVh3MkhuUWVKT3FPWURFeHlfZHoyam9QWXNTZXFaLTI4anRrLS04QzJBaUt4MEFkTGZ4bWlXZzkxSmk3VVJ6cG1idjh4Z0tpUGZRYzlvNWFFWEtCZjJYN1BFMFQ0dFdHcW5kb2kzWGZiMjdhSmdsZ9IBvgFBVV95cUxPenhVQnNhb1pXc2k1YXVmVW5vMHdMQmZfSjhldkM5TEhUbE4wdFRHTkZuaGlGVlBGMUdQbWN0N3ZEaW9jMHQzQjZCY0xXQ3p4M0MzM2dRMHluM1FjUklEMy1Odk9Kak54T1lQbXp4MFBVbTF6Zll5eUtQeG5XSmY4NDMtcjJ4VnM1WW1sc3dvTFF3QklkaUNYSk5iOFFSS21TYmlHamlVeWFqWEhjam1EaXBWMGVZbThpVlZmUXZn?oc=5",
   "d": "2026-09-23",
-  "sum": "Anthropic Launches New Version Of Its Claude Amid Global AI Slowdown Calls ndtv.com",
-  "src": "ndtv.com",
+  "sum": "Anthropic Launches New Version Of Its Claude Amid Global AI Slowdown Calls NDTV",
+  "src": "NDTV",
   "topics": [],
   "launch": true,
   "firstSeen": "2026-09-27"
@@ -561,24 +673,34 @@
   "firstSeen": "2026-09-27"
  },
  {
+  "t": "OpenAI, Anthropic Release Cheaper AI Models Days After Calling For 'Slowdown'",
+  "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdkhRZnBMd2hmY0RLTEdackdOcE1PUjVmR3k1MUVySGFZc0FSYlV1d005UjhwWmlPNDZybEpKeWE4UnZOVWc0VGE4bG9RZVhWQ0IzellqMzRKRVpiUENBZVVZTHNnSktxRk1SbXdvaW5vM1kzN1RIQ2ljUUZlT2JYaGd5MHM0dlMxR0NubTVNN1NrTmZxenZtNFUxaVB2X2Q4dndPb3g3QVpuM2sxQTk2eDljZDNYekptS05rNi1Wd3lGZ1VsS2xj0gHPAUFVX3lxTE1scDNNRDBycENISjY4MzZ5Q2FOUzVVRnVtVjZNOGxQZkVZVnhoa2JYcDZjX0RfRVVRbXkxSXhTYWN2NF9QSExiOGJtd185ckY4UU56ejAyWHU1R1F6Z3Y1ZHRXQ2dqVmRSRTlhMDBSV0g4TUFROTRKUWlHVFhyYUFTeDFGVE1tUmozVGRIZ1ZGM1NsQWNCek5JUTlCYWc5UFMzREliNmZUUkZNT2hVTHNLeWI5N3VZSUJPS0hVRGw1R19EczJ2dFdtdTJlLWgxTQ?oc=5",
+  "d": "2026-09-23",
+  "sum": "OpenAI, Anthropic Release Cheaper AI Models Days After Calling For 'Slowdown' NDTV",
+  "src": "NDTV",
+  "topics": [
+   "cost"
+  ],
+  "launch": false,
+  "firstSeen": "2026-09-27"
+ },
+ {
+  "t": "Anthropic, OpenAI launch new flagship AI models after calling to slow down AI development",
+  "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPXzlLUDN5U1NHLTA1ZWpta3F5NzZNWGU2Uy03bVI0OG4xanlJZVpKenV4YjgzMVBMYmN1alYxSW00cUk3WXhqMW13LTJjOTdFelpkT25CNjRGczFiYzBiNnJvUlVFbHpndnBrRnR5TDlaZ3RQQ0gxalJhbDg2Qmg3djl4X2ZQVktZa0p2b0RENmd2MFBDZ09xbXpiUmpUeS13azVvdFhGamJ3SlFzUDVqUjFxS01QUzJIRUJ4UFQyR2dVbUlCNVpOZElaSE1yVzlxOWgyTFpBbWw2WkZ3V2V0aUs5amZ0Qk5nMkg40gHwAUFVX3lxTE9wMzJGd0RvdFZ2WGJLeXFQUTM0Y096S3hBcFlnZEhqZEpUOXljbXFfS25sODhwVnhOX24yeEROaFhFeVhmV21mVDNIc3FBSE54S0t2OVBIOHcxMWNsM2pGc0luTlc3Y3VmdmNjbUtGS2dIOEM2Vy1Ob2RVelNJZlU0bVF6d2xIWm82eUVjY1ItNklTRDNlSTRsRjQxaVdHRlF5elpoSG9wZXZUOXAyMVpMdkpmYlpxUlBaWWYtQ2Q4RVJnZFFTZV81M19sVDlFM0xYaF9jNWJFWFBiUkF6LW4ydjRMUmd1T2h5SUNrQjNQNg?oc=5",
+  "d": "2026-09-23",
+  "sum": "Anthropic, OpenAI launch new flagship AI models after calling to slow down AI development India Today",
+  "src": "India Today",
+  "topics": [],
+  "launch": false,
+  "firstSeen": "2026-09-27"
+ },
+ {
   "t": "Anthropic’s Claude finds new enzyme system",
   "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTy1TSDBoeVpLcUhpRHF4Z1VJM01VMFZxRmdsMTA4bWV2c01PUTAwTFpGZVVHZWZ1MzhRUzcxYUpKcl8wYWRqU19RbVBhUkZFYjJXUlF6TVZvdGtQOHdxb3djUGNQZ2g0dGh0M3RhSlJ4TU96ZnlrLU14LTdNVERyRFRvbnVzVmJEdkVUWlNzMmRNdkljcDd2WHZ2OVRZZkU?oc=5",
   "d": "2026-09-23",
   "sum": "Anthropic’s Claude finds new enzyme system Investing.com",
   "src": "Investing.com",
   "topics": [],
-  "launch": false,
-  "firstSeen": "2026-09-27"
- },
- {
-  "t": "OpenAI, Anthropic Release Cheaper AI Models Days After Calling For 'Slowdown'",
-  "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdkhRZnBMd2hmY0RLTEdackdOcE1PUjVmR3k1MUVySGFZc0FSYlV1d005UjhwWmlPNDZybEpKeWE4UnZOVWc0VGE4bG9RZVhWQ0IzellqMzRKRVpiUENBZVVZTHNnSktxRk1SbXdvaW5vM1kzN1RIQ2ljUUZlT2JYaGd5MHM0dlMxR0NubTVNN1NrTmZxenZtNFUxaVB2X2Q4dndPb3g3QVpuM2sxQTk2eDljZDNYekptS05rNi1Wd3lGZ1VsS2xj0gHPAUFVX3lxTE1scDNNRDBycENISjY4MzZ5Q2FOUzVVRnVtVjZNOGxQZkVZVnhoa2JYcDZjX0RfRVVRbXkxSXhTYWN2NF9QSExiOGJtd185ckY4UU56ejAyWHU1R1F6Z3Y1ZHRXQ2dqVmRSRTlhMDBSV0g4TUFROTRKUWlHVFhyYUFTeDFGVE1tUmozVGRIZ1ZGM1NsQWNCek5JUTlCYWc5UFMzREliNmZUUkZNT2hVTHNLeWI5N3VZSUJPS0hVRGw1R19EczJ2dFdtdTJlLWgxTQ?oc=5",
-  "d": "2026-09-23",
-  "sum": "OpenAI, Anthropic Release Cheaper AI Models Days After Calling For 'Slowdown' ndtv.com",
-  "src": "ndtv.com",
-  "topics": [
-   "cost"
-  ],
   "launch": false,
   "firstSeen": "2026-09-27"
  },
@@ -723,6 +845,48 @@
   "firstSeen": "2026-09-27"
  },
  {
+  "t": "GPT-6 Sol and Luna",
+  "u": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+  "d": "2026-09-22",
+  "sum": "Article URL: https://openai.com/index/introducing-gpt-6-sol-and-luna/ Comments URL: https://news.ycombinator.com/item?id=49805509 Points: 1774 # Comments: 853",
+  "src": "Hacker News",
+  "topics": [],
+  "launch": false,
+  "firstSeen": "2026-09-27"
+ },
+ {
+  "t": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+  "u": "https://artificialanalysis.ai/models/claude-opus-5-5",
+  "d": "2026-09-22",
+  "sum": "Article URL: https://artificialanalysis.ai/models/claude-opus-5-5 Comments URL: https://news.ycombinator.com/item?id=49804316 Points: 333 # Comments: 106",
+  "src": "Hacker News",
+  "topics": [
+   "cost"
+  ],
+  "launch": false,
+  "firstSeen": "2026-09-27"
+ },
+ {
+  "t": "Claude Opus 5.5",
+  "u": "https://www.anthropic.com/claude-opus-5-5",
+  "d": "2026-09-22",
+  "sum": "Article URL: https://www.anthropic.com/claude-opus-5-5 Comments URL: https://news.ycombinator.com/item?id=49803892 Points: 1801 # Comments: 1127",
+  "src": "Hacker News",
+  "topics": [],
+  "launch": false,
+  "firstSeen": "2026-09-27"
+ },
+ {
+  "t": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+  "u": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+  "d": "2026-09-22",
+  "sum": "Article URL: https://www.cryptocellar.org/bgac/the-mvueh-break.html Comments URL: https://news.ycombinator.com/item?id=49801324 Points: 735 # Comments: 444",
+  "src": "Hacker News",
+  "topics": [],
+  "launch": false,
+  "firstSeen": "2026-09-27"
+ },
+ {
   "t": "Claude Opus 5.5 is now available on AWS | Artificial Intelligence",
   "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUF84Y3BrZ1ZCZC1FLWwtVi1VcGJBU0xpQmpKSlBsenowckNCRnFsa2FkdmRDb25oTGx0Q0VXbG02MFh0NUg5NlptUmdTcDU2WmdONERITlZlVFNSZzNjakw4dE4yQWUtbHlqQ041VlRnZU8yUVZmejd6bVl1QmlZaXIxc09nbXNQT1lfNU1Eaw?oc=5",
   "d": "2026-09-22",
@@ -736,8 +900,8 @@
   "t": "The Genie One MCP is now Generally Available",
   "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9GS0J0SHNoUU1Tdzk0WWZ5cVVZZDdFMGk3QUl5UXNSUWpSam1ONXQ0QVNwRU9KWGJLUHVqSGtqc3dzbGlOYjJMbVppTFBJT1pIZ2N2a0ZSRTBzSVdkLXVQc2Q5d3VEMmhNSVJfZU40Y2s4eXA2azQzbA?oc=5",
   "d": "2026-09-22",
-  "sum": "The Genie One MCP is now Generally Available Databricks",
-  "src": "Databricks",
+  "sum": "The Genie One MCP is now Generally Available databricks.com",
+  "src": "databricks.com",
   "topics": [
    "mcp"
   ],
@@ -753,6 +917,16 @@
   "topics": [
    "cost"
   ],
+  "launch": false,
+  "firstSeen": "2026-09-27"
+ },
+ {
+  "t": "Alibaba deepens AI push with new chip, bigger model; shares jump 5%",
+  "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUlcybzdOMWxNcmJHT1ZvUHFRTkczZzRNbHpkeUM1QjVxak5WMVdfTldrMWRtaTdHd1FvZkUwbGN4NmhwdUFSdmJxdVBVTGZxNFBWMUNqQXU3dlJzM1VXOHZsYmliZmxBRl90eFF6dEFZWl9BQTJTdkdxaDBSMGVrSXBJUkFVQkx1RTFOcktHZDQ4blo4VFh0amtSRmYxU2YxeGdQdUhFa25DeDBjSllsaVBsUVQ3X3VYdnRKMTAxN1BzZFQzUUpGSVI3TXZBZmRuTlhjejFB?oc=5",
+  "d": "2026-09-22",
+  "sum": "Alibaba deepens AI push with new chip, bigger model; shares jump 5% Reuters",
+  "src": "Reuters",
+  "topics": [],
   "launch": false,
   "firstSeen": "2026-09-27"
  },
@@ -900,6 +1074,16 @@
   "firstSeen": "2026-09-27"
  },
  {
+  "t": "Anthropic considers releasing new AI model ahead of IPO, sources say",
+  "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTzFtd0RKQkJYWUFpZ0paUk55MGpraW5zUTdadklCVHZnLUlidUpEQ3ZWWTRiU2w3X3FCZXliZTAyeW4zOHZIQlROTDdCeW82U25ub2lkdzVaX1dpQXpmRWVVTEFRMm5kTUFJNnp6MnJQeFNNRHc5UlpNZUtNTUtGUnJtRGFJbDk5cmhJcTNhaUI3LUh1VVp2WUxqSml6WUUtRURTaEQ1QktRRF9pQUh2MFJtczRKdFpqR01abUk4UUVEX19wVkpiYkY0dFbSAdMBQVVfeXFMTVNObXd6UzhEdmZQeVA1eWN5dE9BeE1WX3UtNWNacGZUaTB2eUo2UXBTUXFWZVZYNkpRQ1EtdzhCQWJWU01KUTYwWkt3OXVzWDZGVVZma2pZY1QyTmRnWElBTW02eEd2eHhTVHVJUmpueHVFMXgxQzh0MmdvNlg2Qk1QRldxRDZlSzUxZGg3dVlBTWozYTEwRy1vdjdmV2pJeEhZcGpxTW5KdEVCOUxSVHRROHVxeHpVXzVqdldDVXZzRmxoX19OOVJmR0hMUGFfdVVYcw?oc=5",
+  "d": "2026-09-21",
+  "sum": "Anthropic considers releasing new AI model ahead of IPO, sources say The Hindu",
+  "src": "The Hindu",
+  "topics": [],
+  "launch": true,
+  "firstSeen": "2026-09-27"
+ },
+ {
   "t": "Anthropic Weighs New AI Model as OpenAI’s GPT-6 Astra Gains Ground",
   "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdlBtMV96eEVaQkhiUDFuVERJY2tieGVhckduUG5jVGJLV1BHRS1mcE1mWGVCQ0NTWktyWEI3OGNHaVplaDJTWk0wbFVSZDFzZWVZR09mc29XV0pNcEpPRl81OVpFZmJiaHdqTmFsdFhMUXoxaFllME5WdDV4aWVnV243Nl9RcVo1Q3hGdmNaM0xZSXF3aGw2UWttRnI1OEZjNWt1dGtn?oc=5",
   "d": "2026-09-21",
@@ -948,6 +1132,18 @@
   "firstSeen": "2026-09-27"
  },
  {
+  "t": "Pirate Face Rescues LLM Models from Deletion",
+  "u": "https://pirateface.co/",
+  "d": "2026-09-20",
+  "sum": "Article URL: https://pirateface.co/ Comments URL: https://news.ycombinator.com/item?id=49776699 Points: 569 # Comments: 148",
+  "src": "Hacker News",
+  "topics": [
+   "fundamentals"
+  ],
+  "launch": false,
+  "firstSeen": "2026-09-27"
+ },
+ {
   "t": "EXCLUSIVE: Anthropic considers releasing new AI model ahead of IPO, sources say",
   "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUUhNb1VBaVJWRXQwZGlnTGk1N1B2UjFyNkltbzJUOGhxZThUdXhNN1BWSGxwNkRsMWVmTjFqSlZ6eFpLY3dkZ0VVVHdIN2NTTFNURVBPd3JZM0lQS1FVQUJ3UUJ0c3RmZXNwamkzV1pkXzduU1pVSFN6bjdON1JoQlFRMzJlNFdKTndsS2tJdzhxVG12cTBfbGREUjkwQTdIdDlhYzE3czdEMU5xMHc?oc=5",
   "d": "2026-09-20",
@@ -985,6 +1181,29 @@
   "d": "2026-09-19",
   "sum": "We're adding support for AGENTS.md to Claude Code. Starting today in version 2.1.277, if there is no CLAUDE.md in a folder, Claude will check for and use AGENTS.md. AGENTS.md support is built off of Claude Code mods, our upcoming way to customize the Claude Co",
   "src": "Simon Willison",
+  "topics": [
+   "coding-agents",
+   "agents"
+  ],
+  "launch": false,
+  "firstSeen": "2026-09-27"
+ },
+ {
+  "t": "GPT-6 Astra Solves a WWI German Radio Cipher",
+  "u": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+  "d": "2026-09-19",
+  "sum": "Article URL: https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio Comments URL: https://news.ycombinator.com/item?id=49763987 Points: 400 # Comments: 180",
+  "src": "Hacker News",
+  "topics": [],
+  "launch": false,
+  "firstSeen": "2026-09-27"
+ },
+ {
+  "t": "Claude Code now reads AGENTS.md if there is no Claude.md",
+  "u": "https://code.claude.com/docs/en/changelog",
+  "d": "2026-09-19",
+  "sum": "Article URL: https://code.claude.com/docs/en/changelog Comments URL: https://news.ycombinator.com/item?id=49760187 Points: 740 # Comments: 286",
+  "src": "Hacker News",
   "topics": [
    "coding-agents",
    "agents"
@@ -1216,6 +1435,18 @@
   "firstSeen": "2026-09-27"
  },
  {
+  "t": "Claude Cowork and chat are now one Claude",
+  "u": "https://claude.com/blog/cowork-is-now-claude",
+  "d": "2026-09-16",
+  "sum": "Article URL: https://claude.com/blog/cowork-is-now-claude Comments URL: https://news.ycombinator.com/item?id=49729412 Points: 234 # Comments: 225",
+  "src": "Hacker News",
+  "topics": [
+   "ai-at-work"
+  ],
+  "launch": false,
+  "firstSeen": "2026-09-27"
+ },
+ {
   "t": "Google Home is unlocking the agentic smart home — which is great, right?",
   "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdUJlQkVtU1NCNXVYbEFsdVUtd2hsNVJQek5aenpaZ2d6NUoxT0JNdzBlcjRpRW8xTzllaTNyMjBBZktOakFiaVFaTUxKdmZKbUZRM1JyNDdBajZZVXM3UEdDem1CQm13bUdGanlpZjQ0TlFDTDlXaUF0SVIzQ04xOGc5RUFKSFV2S2FUeFB5NUYzUWJUY3ZoMENVaWt1b3dyLU8zMk1aNWM?oc=5",
   "d": "2026-09-16",
@@ -1301,6 +1532,18 @@
   "src": "Latent Space",
   "topics": [
    "evals"
+  ],
+  "launch": false,
+  "firstSeen": "2026-09-27"
+ },
+ {
+  "t": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+  "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+  "d": "2026-09-15",
+  "sum": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/ Comments URL: https://news.ycombinator.com/item?id=49715947 Points: 492 # Comments: 328",
+  "src": "Hacker News",
+  "topics": [
+   "fundamentals"
   ],
   "launch": false,
   "firstSeen": "2026-09-27"
