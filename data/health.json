@@ -1,5 +1,5 @@
 {
- "date": "2026-09-27",
+ "date": "2026-09-28",
  "health": [
   {
    "source": "OpenAI",
@@ -48,8 +48,8 @@
   },
   {
    "source": "Hacker News",
-   "ok": true,
-   "items": 20
+   "ok": false,
+   "error": "HTTP 502"
   },
   {
    "source": "News: Anthropic",
