@@ -49,7 +49,7 @@
   {
    "source": "Hacker News",
    "ok": false,
-   "error": "HTTP 502"
+   "error": "This operation was aborted"
   },
   {
    "source": "News: Anthropic",

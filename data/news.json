@@ -25,6 +25,19 @@
   "firstSeen": "2026-09-28"
  },
  {
+  "t": "Who’s liable when AI agents go rogue?",
+  "u": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+  "d": "2026-09-28",
+  "sum": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the ",
+  "src": "MIT Technology Review",
+  "topics": [
+   "agents",
+   "security"
+  ],
+  "launch": false,
+  "firstSeen": "2026-09-28"
+ },
+ {
   "t": "Engram is a sampler that turns broken AI hallucinations into music",
   "u": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
   "d": "2026-09-28",
@@ -214,8 +227,8 @@
   "t": "Claude AI | Chatbot, Anthropic, Models, Families, & Weaknesses",
   "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HZEotUzF3UUlDVkZkNnI3bk9PZ0R6OGZhT2lhTFN2VUIwY2xZYlI4VWNCa1NZWUJxYk9vU1NTOW9Ec3QwQl96SEY3cXFOMXI3R0l3RQ?oc=5",
   "d": "2026-09-25",
-  "sum": "Claude AI | Chatbot, Anthropic, Models, Families, & Weaknesses Britannica",
-  "src": "Britannica",
+  "sum": "Claude AI | Chatbot, Anthropic, Models, Families, & Weaknesses britannica.com",
+  "src": "britannica.com",
   "topics": [],
   "launch": false,
   "firstSeen": "2026-09-28"
@@ -236,8 +249,8 @@
   "t": "The cheap new AI model taking aim at OpenAI and Anthropic",
   "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTW1CaHpfdENaOXJ3OGZmLWVfQ2xUU0FaTEJ5WVhGZzUtMmNENXM3Q0luMUpvZEpCcXVfYV9GQXdlWEs4Um1TbEVFLWNLdl9Ha1ZXQXl3UlU0Y3ZHbTVadWY5Q3lUU01WMGVKWjZBLWpaZnEzbE0wd3gwTVFPUEpXMEdRRHY?oc=5",
   "d": "2026-09-25",
-  "sum": "The cheap new AI model taking aim at OpenAI and Anthropic ft.com",
-  "src": "ft.com",
+  "sum": "The cheap new AI model taking aim at OpenAI and Anthropic Financial Times",
+  "src": "Financial Times",
   "topics": [],
   "launch": false,
   "firstSeen": "2026-09-28"
@@ -340,8 +353,18 @@
   "t": "Google Nears Release of Flagship Gemini 4 AI Model",
   "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNXh3OWdvQ3NBQ240aUxVR2NOd0hsMTZITHFpQjFuZlhQMU5ZeWpfaHdNd21lZVlyRzZzcUo5OUhJVEcwVnlFWjkwSENSdkdqb1NMMUFMaWE0a2lwbkw2Z25rMFBUYXZWOTk4VEU0dnRhTWk5YkQ5bkx3VmROWV9pYm5FRVZ0MnlKV0Rqell0LWU?oc=5",
   "d": "2026-09-24",
-  "sum": "Google Nears Release of Flagship Gemini 4 AI Model The Information",
-  "src": "The Information",
+  "sum": "Google Nears Release of Flagship Gemini 4 AI Model theinformation.com",
+  "src": "theinformation.com",
+  "topics": [],
+  "launch": true,
+  "firstSeen": "2026-09-28"
+ },
+ {
+  "t": "Sarvam launches new AI model to read documents in 22 Indian languages",
+  "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOWNkdUFBUW5pWmRUQkdKWC1yTzl5aGZTTEhtaXJEU2h3VG5RbjZoSU5ZQmdBeE5iV3dlNjVFQUF2S0pIMlQ3WXk2UndOeVZFdEpGMGo4d2NjLVlzSTNfazRhTkgyVUZYbWtPYjd4N1FwZnZnempWdFZ6S0tBR1JkYVRDRXBaZlZpci1YTS1YdDViR3BIWlZDaDFtN1h1MkhhR29NTXFpNmkyU19fbWxMeEFDaDJ3NkVCU3fSAb8BQVVfeXFMUEpMUndOcUpSXzI1ZDFmLUlHV2otWC1sN2xSbW5BUTNPdERLOHYwOUFMZ1RQZjdqNkRBVVByQk1TcjRYMEdyNGFHcHBha29scDRpNHJjc2RBY1BCWExCTWtybjZUYjFIc2hXTUZPVnplalUxRFpJYy1fWnA0aEJLa1lRTEFFUW5NTXlielJXSmRJekdWR2oyTTJsREx3SUNIeXhoREdXbXoyOGRBQ1h6dEdkWkNWQnlRcFc0ZGRlNGM?oc=5",
+  "d": "2026-09-24",
+  "sum": "Sarvam launches new AI model to read documents in 22 Indian languages CNBC TV18",
+  "src": "CNBC TV18",
   "topics": [],
   "launch": true,
   "firstSeen": "2026-09-28"
@@ -669,8 +692,8 @@
   "t": "Claude discovers a novel enzyme system with CRISPR-like repeats",
   "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JT0FwTVctZXNkYnJXeW44aHhoZmJfbDYwN3B4a2tMTThJZm9XRklxMkEzdFlxb2Z6VGM2UnpDTGlaQ09PODJUMkJFWWl1UVZOTDJ0WU1UQ1pZMDlrbS0tM3FTS0RGWmNSeGt5QlJjZktQWkl4N0E?oc=5",
   "d": "2026-09-23",
-  "sum": "Claude discovers a novel enzyme system with CRISPR-like repeats Anthropic",
-  "src": "Anthropic",
+  "sum": "Claude discovers a novel enzyme system with CRISPR-like repeats anthropic.com",
+  "src": "anthropic.com",
   "topics": [],
   "launch": false,
   "firstSeen": "2026-09-28"
@@ -1519,16 +1542,6 @@
   "firstSeen": "2026-09-28"
  },
  {
-  "t": "Building the materials foundation for AI",
-  "u": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
-  "d": "2026-09-16",
-  "sum": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits aro",
-  "src": "MIT Technology Review",
-  "topics": [],
-  "launch": false,
-  "firstSeen": "2026-09-28"
- },
- {
   "t": "Google Home is unlocking the agentic smart home — which is great, right?",
   "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdUJlQkVtU1NCNXVYbEFsdVUtd2hsNVJQek5aenpaZ2d6NUoxT0JNdzBlcjRpRW8xTzllaTNyMjBBZktOakFiaVFaTUxKdmZKbUZRM1JyNDdBajZZVXM3UEdDem1CQm13bUdGanlpZjQ0TlFDTDlXaUF0SVIzQ04xOGc5RUFKSFV2S2FUeFB5NUYzUWJUY3ZoMENVaWt1b3dyLU8zMk1aNWM?oc=5",
   "d": "2026-09-16",
@@ -1537,6 +1550,16 @@
   "topics": [
    "agents"
   ],
+  "launch": false,
+  "firstSeen": "2026-09-28"
+ },
+ {
+  "t": "Building the materials foundation for AI",
+  "u": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+  "d": "2026-09-16",
+  "sum": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits aro",
+  "src": "MIT Technology Review",
+  "topics": [],
   "launch": false,
   "firstSeen": "2026-09-28"
  },
