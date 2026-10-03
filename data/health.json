@@ -1,10 +1,10 @@
 {
- "date": "2026-10-02",
+ "date": "2026-10-03",
  "health": [
   {
    "source": "OpenAI",
    "ok": true,
-   "items": 31
+   "items": 32
   },
   {
    "source": "Google AI",
@@ -19,7 +19,7 @@
   {
    "source": "Hugging Face",
    "ok": true,
-   "items": 6
+   "items": 7
   },
   {
    "source": "MCP blog",
@@ -34,22 +34,22 @@
   {
    "source": "Latent Space",
    "ok": true,
-   "items": 11
+   "items": 12
   },
   {
    "source": "MIT Technology Review",
    "ok": true,
-   "items": 8
+   "items": 9
   },
   {
    "source": "The Verge AI",
    "ok": true,
-   "items": 10
+   "items": 8
   },
   {
    "source": "Hacker News",
-   "ok": true,
-   "items": 20
+   "ok": false,
+   "error": "HTTP 502"
   },
   {
    "source": "News: Anthropic",
