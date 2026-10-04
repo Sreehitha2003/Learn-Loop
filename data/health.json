@@ -1,5 +1,5 @@
 {
- "date": "2026-10-03",
+ "date": "2026-10-04",
  "health": [
   {
    "source": "OpenAI",
@@ -19,7 +19,7 @@
   {
    "source": "Hugging Face",
    "ok": true,
-   "items": 7
+   "items": 8
   },
   {
    "source": "MCP blog",
@@ -29,7 +29,7 @@
   {
    "source": "Simon Willison",
    "ok": true,
-   "items": 21
+   "items": 20
   },
   {
    "source": "Latent Space",
@@ -49,7 +49,7 @@
   {
    "source": "Hacker News",
    "ok": false,
-   "error": "HTTP 502"
+   "error": "fetch failed"
   },
   {
    "source": "News: Anthropic",
