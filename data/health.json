@@ -1,5 +1,5 @@
 {
- "date": "2026-10-04",
+ "date": "2026-10-05",
  "health": [
   {
    "source": "OpenAI",
@@ -44,12 +44,12 @@
   {
    "source": "The Verge AI",
    "ok": true,
-   "items": 8
+   "items": 9
   },
   {
    "source": "Hacker News",
-   "ok": false,
-   "error": "fetch failed"
+   "ok": true,
+   "items": 20
   },
   {
    "source": "News: Anthropic",
