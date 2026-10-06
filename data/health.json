@@ -1,10 +1,10 @@
 {
- "date": "2026-10-05",
+ "date": "2026-10-06",
  "health": [
   {
    "source": "OpenAI",
    "ok": true,
-   "items": 32
+   "items": 30
   },
   {
    "source": "Google AI",
@@ -19,7 +19,7 @@
   {
    "source": "Hugging Face",
    "ok": true,
-   "items": 8
+   "items": 9
   },
   {
    "source": "MCP blog",
@@ -44,12 +44,12 @@
   {
    "source": "The Verge AI",
    "ok": true,
-   "items": 9
+   "items": 10
   },
   {
    "source": "Hacker News",
-   "ok": true,
-   "items": 20
+   "ok": false,
+   "error": "HTTP 502"
   },
   {
    "source": "News: Anthropic",
