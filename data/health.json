@@ -1,5 +1,5 @@
 {
- "date": "2026-10-09",
+ "date": "2026-10-10",
  "health": [
   {
    "source": "OpenAI",
@@ -19,7 +19,7 @@
   {
    "source": "Hugging Face",
    "ok": true,
-   "items": 8
+   "items": 7
   },
   {
    "source": "MCP blog",
@@ -29,7 +29,7 @@
   {
    "source": "Simon Willison",
    "ok": true,
-   "items": 23
+   "items": 20
   },
   {
    "source": "Latent Space",
@@ -44,7 +44,7 @@
   {
    "source": "The Verge AI",
    "ok": true,
-   "items": 7
+   "items": 8
   },
   {
    "source": "Hacker News",
