@@ -1,5 +1,5 @@
 {
- "date": "2026-10-11",
+ "date": "2026-10-12",
  "health": [
   {
    "source": "OpenAI",
@@ -48,8 +48,8 @@
   },
   {
    "source": "Hacker News",
-   "ok": false,
-   "error": "fetch failed"
+   "ok": true,
+   "items": 19
   },
   {
    "source": "News: Anthropic",
