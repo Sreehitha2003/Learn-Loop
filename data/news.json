@@ -1,5 +1,161 @@
 [
  {
+  "t": "Tree Appreciator",
+  "u": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
+  "d": "2026-10-15",
+  "sum": "Tool: Tree Appreciator Another game experiment with Claude. This one used the default Claude iPhone app (chat mode, not Claude Code mode), where I prompted Claude Opus 5.5 Max with: Build a three js game called \"Tree appreciator\" - it shows you two algorithmic",
+  "src": "Simon Willison",
+  "topics": [
+   "context-eng",
+   "coding-agents"
+  ],
+  "launch": false,
+  "firstSeen": "2026-10-15"
+ },
+ {
+  "t": "Crossing the Threshold: How OpenAI and Anthropic Approach Autonomy and Safety in Financial Agents",
+  "u": "https://www.latent.space/p/crossing-the-threshold",
+  "d": "2026-10-15",
+  "sum": "At AI Engineer New York, frontier labs and financial firms explored how to give agents useful autonomy while keeping consequential decisions under control.",
+  "src": "Latent Space",
+  "topics": [
+   "agents",
+   "security"
+  ],
+  "launch": false,
+  "firstSeen": "2026-10-15"
+ },
+ {
+  "t": "Lab-in-the-Loop at Compute Speed — Ian Quigley, Leash Bio",
+  "u": "https://www.latent.space/p/lab-in-the-loop-at-compute-speed",
+  "d": "2026-10-15",
+  "sum": "How Leash Bio tamed DELs, the assay that traumatizes everyone, and used the data to catch cheating models. And why that same data is perfect for AI agents learning to think like chemists.",
+  "src": "Latent Space",
+  "topics": [
+   "agents"
+  ],
+  "launch": false,
+  "firstSeen": "2026-10-15"
+ },
+ {
+  "t": "McKinsey is making job applicants spar with a fake AI client",
+  "u": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+  "d": "2026-10-15",
+  "sum": "Consulting firm McKinsey & Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal. The AI simulation \"aims to reflect 80% of ",
+  "src": "The Verge AI",
+  "topics": [],
+  "launch": false,
+  "firstSeen": "2026-10-15"
+ },
+ {
+  "t": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
+  "u": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+  "d": "2026-10-15",
+  "sum": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virgin",
+  "src": "The Verge AI",
+  "topics": [
+   "ai-at-work",
+   "security"
+  ],
+  "launch": false,
+  "firstSeen": "2026-10-15"
+ },
+ {
+  "t": "The AI race is back on",
+  "u": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+  "d": "2026-10-15",
+  "sum": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive its flounde",
+  "src": "The Verge AI",
+  "topics": [],
+  "launch": false,
+  "firstSeen": "2026-10-15"
+ },
+ {
+  "t": "Now that Character.AI is going bankrupt, what happens to all of its users’ data?",
+  "u": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+  "d": "2026-10-15",
+  "sum": "New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy proceeding. James is among 40 bipartisan AGs who filed a notice of",
+  "src": "The Verge AI",
+  "topics": [],
+  "launch": false,
+  "firstSeen": "2026-10-15"
+ },
+ {
+  "t": "Radware Introduces Model Context Protocol (MCP) Server Protection to Help Secure the Integration Layer of Agentic AI",
+  "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeHVxYjFPbHJEMG5ZbDdxR2ZxTzQwQlMzR0JERllHTUxUaVJUZHgyT3p1QXJ6Tkx6eDY0WHloRlpjejhzZlVjWEFsd3NmdV9VeFRlLXNVTnp5WWtIbkRRc0F5NUhYUU1vemFPWW5HTG56bEhMVW5LM3oxbi14bzhicjJjU1JYUjFVX0RxZGZWRXBVUHZzVnhpUjZNWDZNVUl0cnBFdkdtZEtVVzZnUTJuakI2REpqWVFUZy02MTJwQkhkMm1kMmlWcURSM29Eb2F2TmhVVVp3?oc=5",
+  "d": "2026-10-15",
+  "sum": "Radware Introduces Model Context Protocol (MCP) Server Protection to Help Secure the Integration Layer of Agentic AI VMblog",
+  "src": "VMblog",
+  "topics": [
+   "agents",
+   "mcp"
+  ],
+  "launch": true,
+  "firstSeen": "2026-10-15"
+ },
+ {
+  "t": "Amp puts AI agents to work beyond code with OpenAI models",
+  "u": "https://openai.com/index/amp-beyond-coding",
+  "d": "2026-10-14",
+  "sum": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+  "src": "OpenAI",
+  "topics": [
+   "ai-at-work",
+   "agents"
+  ],
+  "launch": false,
+  "firstSeen": "2026-10-15"
+ },
+ {
+  "t": "SentinelOne cuts malware analysis from weeks to hours",
+  "u": "https://openai.com/index/sentinelone",
+  "d": "2026-10-14",
+  "sum": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+  "src": "OpenAI",
+  "topics": [],
+  "launch": false,
+  "firstSeen": "2026-10-15"
+ },
+ {
+  "t": "How Third Moment Research runs 10,000 agents for 36+ hours",
+  "u": "https://openai.com/index/third-moment-research",
+  "d": "2026-10-14",
+  "sum": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+  "src": "OpenAI",
+  "topics": [
+   "coding-agents",
+   "agents",
+   "security"
+  ],
+  "launch": false,
+  "firstSeen": "2026-10-15"
+ },
+ {
+  "t": "How Block is building AI-powered security with OpenAI technology",
+  "u": "https://openai.com/index/block-ai-powered-security",
+  "d": "2026-10-14",
+  "sum": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+  "src": "OpenAI",
+  "topics": [
+   "security"
+  ],
+  "launch": false,
+  "firstSeen": "2026-10-15"
+ },
+ {
+  "t": "The EU’s next chapter in AI is agentic",
+  "u": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+  "d": "2026-10-14",
+  "sum": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+  "src": "OpenAI",
+  "topics": [
+   "agents",
+   "strategy"
+  ],
+  "launch": false,
+  "firstSeen": "2026-10-15"
+ },
+ {
   "t": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
   "u": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
   "d": "2026-10-14",
@@ -10,7 +166,7 @@
    "post-training"
   ],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "Developing Gemini 4 Argon responsibly and safely",
@@ -20,7 +176,17 @@
   "src": "Google DeepMind",
   "topics": [],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
+ },
+ {
+  "t": "AI is mass decompiling games. That's both awesome and scary.",
+  "u": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/",
+  "d": "2026-10-14",
+  "sum": "AI is mass decompiling games. That's both awesome and scary. Indie game developer Popcar talks about the recent wave of AI-powered decompilation of existing games, enabling weird mashups between existing games, and producing a boom in game preservation project",
+  "src": "Simon Willison",
+  "topics": [],
+  "launch": false,
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "Redesigning source control at Anthropic",
@@ -30,7 +196,7 @@
   "src": "Simon Willison",
   "topics": [],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "llm-gemini 0.35",
@@ -42,7 +208,7 @@
    "fundamentals"
   ],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "[AINews] AI Engineer NYC: Gemini 4 Argon, Vals AI Benchmarks",
@@ -55,7 +221,7 @@
    "evals"
   ],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "Dyna-2: General Purpose Physical Agents with Hour-Long Autonomy — Jason Ma, Dyna Robotics",
@@ -67,7 +233,100 @@
    "agents"
   ],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
+ },
+ {
+  "t": "YouTube sticks new labels on AI-generated songs",
+  "u": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
+  "d": "2026-10-14",
+  "sum": "YouTube is adding a \"Made with AI\" label to tracks that were \"altered or fully generated\" using AI, with a similar approach to its existing process for applying AI labels to videos. It doesn't sound like this will apply to any and all use of AI tools in making",
+  "src": "The Verge AI",
+  "topics": [
+   "multimodal"
+  ],
+  "launch": false,
+  "firstSeen": "2026-10-15"
+ },
+ {
+  "t": "My AI doppelganger tells me what to eat",
+  "u": "https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health",
+  "d": "2026-10-14",
+  "sum": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. For the past 100 days or so, my mornings hav",
+  "src": "The Verge AI",
+  "topics": [],
+  "launch": false,
+  "firstSeen": "2026-10-15"
+ },
+ {
+  "t": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
+  "u": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
+  "d": "2026-10-14",
+  "sum": "OpenAI claims a former employee took more than 100 files related to its product plans before joining Apple. In a document filed on Wednesday, OpenAI accuses the unnamed employee of sending this information to a personal account and then presenting it to Apple ",
+  "src": "The Verge AI",
+  "topics": [],
+  "launch": false,
+  "firstSeen": "2026-10-15"
+ },
+ {
+  "t": "Microsoft has a new machine learning tool to improve weather forecasts",
+  "u": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
+  "d": "2026-10-14",
+  "sum": "Old-school physics-based weather forecasting and even new AI models typically become less reliable beyond two weeks, a problem Microsoft claims to have solved using machine learning. Researchers with the company say they've found a new, cost-effective way to m",
+  "src": "The Verge AI",
+  "topics": [
+   "cost"
+  ],
+  "launch": false,
+  "firstSeen": "2026-10-15"
+ },
+ {
+  "t": "Square’s new kiosk lets you talk to AI for help with your order",
+  "u": "https://www.theverge.com/tech/1009086/square-kiosk",
+  "d": "2026-10-14",
+  "sum": "Square is launching new hardware: a big kiosk for ordering things that has a touchscreen and lets you talk to an AI. It's called the Square Kiosk. Square says the Kiosk, which has a large pill shape, has an \"agentic, conversational voice layer\" that \"fully und",
+  "src": "The Verge AI",
+  "topics": [
+   "agents",
+   "multimodal"
+  ],
+  "launch": false,
+  "firstSeen": "2026-10-15"
+ },
+ {
+  "t": "Android is using AI to suss out scammers in Google Messages",
+  "u": "https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages",
+  "d": "2026-10-14",
+  "sum": "Android is introducing new scam defense features that aim to make it easier for users to evade mobile fraud, including bolstered protection in Google Messages and additional safeguarding tools. Building on the Scam Detection feature in Google Messages, a new \"",
+  "src": "The Verge AI",
+  "topics": [],
+  "launch": false,
+  "firstSeen": "2026-10-15"
+ },
+ {
+  "t": "Revenue Growth Agent Launches Model Context Protocol Connector, Bringing Company-Specific Sales Intelligence Into ChatGPT and Claude",
+  "u": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPWnZGbGNZRlpMd3VwZXB4bXp2UkVnUm1uNFFCY0dibTR2LWdoOUdIQnZkYnhWNlBiSUVFNU93QUF0aUE5a2Z6TWJjZnZHUm90SWE2M1I0N1d6a0xGZUgwdkVzZUJFdllnSWpBcUNrcmtweXVQa1hrRXdvQTE0RUFidDYxMDN6Q3I0WWY2bGpLbDloR1d0NFhoM21BMGZ2dE9wa0NiOUVadzdQYWFHaE4wN0pOb3VBVEE4c1dFRVlXRWRVSXhrd0VWTUhLU1RMajgyVUhNeUZJbkdhNG16S21qQVBPYS1JNFVRT0I3WHB0RTFZTkFua3U2aW9KME9MODJzc0FmLTk4REh3WUlpM3BvRVhjd2ZYQQ?oc=5",
+  "d": "2026-10-14",
+  "sum": "Revenue Growth Agent Launches Model Context Protocol Connector, Bringing Company-Specific Sales Intelligence Into ChatGPT and Claude PR Newswire",
+  "src": "PR Newswire",
+  "topics": [
+   "ai-at-work",
+   "agents",
+   "mcp"
+  ],
+  "launch": true,
+  "firstSeen": "2026-10-15"
+ },
+ {
+  "t": "Radware launches MCP Server Protection to secure AI integration layers from attacks and abuse.",
+  "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcDFZbUpQR1ZvUno3Q1MxMkNCSGlHRDg2ZmhJdlZiY0VyYlpVOVM5Qm5uVTBadVBKdDJwU2RjRjRrRnJGbHpsOE9YQmVaLTJRV1RRai1naC1lRTV2eU05UVZUVXlkczN0SktzbFpwOVNZbEFaYy1PRUtmR2VqTzdpVHpHcjlTUnJtc2VWSUpBTlctalJjSTRKOUVvX195djBOTE5ERnFSekpJempSUVFWdUVn?oc=5",
+  "d": "2026-10-14",
+  "sum": "Radware launches MCP Server Protection to secure AI integration layers from attacks and abuse. Pluang",
+  "src": "Pluang",
+  "topics": [
+   "mcp"
+  ],
+  "launch": false,
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "OpenAI employee arrested for allegedly planting a bug in a conference room",
@@ -105,18 +364,6 @@
   "firstSeen": "2026-10-14"
  },
  {
-  "t": "Meta launches Muse Wonder, catching OpenAI, Anthropic: How to try it, benchmark results",
-  "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jQWhkclNlSmV2TEZzY19JYW8wQ3pkZVhFNzFLaElxdHh2bFprTGwyYWxIVmtMd2tEMEw3bjVaMFJfQU9xU0lVQ2Q1S2owb185YXFpdElfZzVxTnJ6b1FMSWdZaFJSTFFWb1dTRzBqbjJjcngyb0E?oc=5",
-  "d": "2026-10-14",
-  "sum": "Meta launches Muse Wonder, catching OpenAI, Anthropic: How to try it, benchmark results Mashable",
-  "src": "Mashable",
-  "topics": [
-   "evals"
-  ],
-  "launch": false,
-  "firstSeen": "2026-10-14"
- },
- {
   "t": "Higgsfield takes AI video from 1 minute to over 10",
   "u": "https://openai.com/index/higgsfield-longer-videos-voice",
   "d": "2026-10-13",
@@ -126,7 +373,7 @@
    "multimodal"
   ],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "Gemini 4 Argon: Built to solve your hardest problems",
@@ -138,7 +385,7 @@
    "strategy"
   ],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "Gemini 4 Argon for Robotics",
@@ -148,7 +395,7 @@
   "src": "Google DeepMind",
   "topics": [],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "Run fast, private agents on-device with LFM2.5-24B-A2B",
@@ -160,7 +407,7 @@
    "agents"
   ],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "Quoting Geoffrey Huntley",
@@ -173,7 +420,7 @@
    "evals"
   ],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "web-edit 0.1a1",
@@ -183,7 +430,7 @@
   "src": "Simon Willison",
   "topics": [],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "llm-meta-ai 0.2",
@@ -195,7 +442,7 @@
    "fundamentals"
   ],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "[AINews] Meta Muse Wonder & Wonder Full: MSL’s Claude 5.5-tier Frontier Model",
@@ -205,7 +452,7 @@
   "src": "Latent Space",
   "topics": [],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "Open models have real benefits. Do they outweigh the risks?",
@@ -215,7 +462,7 @@
   "src": "MIT Technology Review",
   "topics": [],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "AI labs are buying data from dead startups to train their models",
@@ -225,7 +472,69 @@
   "src": "MIT Technology Review",
   "topics": [],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
+ },
+ {
+  "t": "Houthis used Claude to develop missiles, test-fired rocket: Anthropic",
+  "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNS1pBZXFfUThVbzNtcUNUUkhFdV9yRGxlNG8yZFo4MEo5QXFzN0NSckVjbEN5MHRqRkV6VnJUeHlzMXJnVHg0LVp2QUxUdVdIV2pWVmRLeVdUNUM1LVhNNHE0N1NDY2FtdjJwS0xEQVpXVldJOXZQNXB6RWdpaFRUdHJwNWxET24xRy1adFJXZUFvcFQtRXZCTDZnTlJ2b2d5elJQTU9vVEQ2Nm02LUhkMDZFb3YtRGQ2Q1RSaUxNM3FmX0VIN0hXVW5aMWZuY1V6WmszLTZZUFJWMG5HLTFxbXRPTFoxYmtINTRLT9IB8gFBVV95cUxQeG5CVG1jZVlJa2ZDdUdFZFN3ZVIxQ2FZYi1Ia21LbHA0VjAtYVdYZi12Sl9BSVZ6c1RUM0lwU2VWWW9sLXBLUGtRelRIaFFKOFpUWWhFa2xrRHVlNFFNOVdSdUViYXhUdF9HSnFyYzhpR0IyalVYbEpVSWxRWUlFMDRwY015QjRtUDRHTWRKZmV5ekdiZUJCQ0tTOVhPT0kxdTFycDVodTNXdldqRXVVejU1Z1lpRHd5TXk1a1YwVldBUF9uUEJNVEphUFpFLXZmVm40amZmdGljQ1AzZ0l3R2RIN0NBcE1fMmJuNlRBR3RKQQ?oc=5",
+  "d": "2026-10-13",
+  "sum": "Houthis used Claude to develop missiles, test-fired rocket: Anthropic Business Standard",
+  "src": "Business Standard",
+  "topics": [],
+  "launch": false,
+  "firstSeen": "2026-10-15"
+ },
+ {
+  "t": "Google launches flagship AI model Gemini 4 Argon for developers, businesses",
+  "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQclhsaXp4NUtqeVJDQTNIUjVXQVdJcnNXYnpYZUFTZm4wY3UxcTM1SzJvdzRBNE9HaURlNG1obzFGQ0o3R0pWNVJfNGFDOUdFZnhfdEJxSkszQ2hZQlowMjdCbVliRE9uX3A5ak1CYkJHOEV1elBYRWgtUHBwdF9lcWEyUGdjbmhQb2JONkpNeWhLTHgzQzRhRFRnZTEwcDRCa3k3RkpxY0c5Z1RsSlFCSmQwNmRmQQ?oc=5",
+  "d": "2026-10-13",
+  "sum": "Google launches flagship AI model Gemini 4 Argon for developers, businesses Reuters",
+  "src": "Reuters",
+  "topics": [],
+  "launch": true,
+  "firstSeen": "2026-10-15"
+ },
+ {
+  "t": "Meta Launches Muse Wonder AI Models to Play Catch-Up With Rivals",
+  "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQU1Y0UFdHdXdYYkstX3lYcmRKUUxESnh5cEx1Y0p3ZlgxM0ZoR3N0eEExNWZqaEZGVzYwb1VIRVM4NTdMeDdGazRlUUR6dGl4SWNLUHNIOUxoZGZERThIaDlTRi04WXZPT3Fqc3owNGNVanlWTTZvVTBmTEtQbFVNZjJyVnNSQQ?oc=5",
+  "d": "2026-10-13",
+  "sum": "Meta Launches Muse Wonder AI Models to Play Catch-Up With Rivals CNET",
+  "src": "CNET",
+  "topics": [],
+  "launch": false,
+  "firstSeen": "2026-10-15"
+ },
+ {
+  "t": "What to know about Meta’s new ‘Wonder’ AI models",
+  "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWU5yT0RkRGNIYm81NmlFcmwxMmhCbkk0MHQ2bnZMRTJ6LTd6RFRqeDBOOEJpU205ZjV6Q0RUZnBVeXpnb09HRElPUHU3bmNPOHNQNFhEcVFadERzaERpd3kyUk1vRk5aN09BS01haU1pdV9xQkx4UXI1SW1TZS1KYXVnRmZnYVlnbmRkZ25RRk1WaEloRkZJbUZqeEpZLUNjYkhPUFI3aDFkQQ?oc=5",
+  "d": "2026-10-13",
+  "sum": "What to know about Meta’s new ‘Wonder’ AI models Euronews.com",
+  "src": "Euronews.com",
+  "topics": [],
+  "launch": false,
+  "firstSeen": "2026-10-15"
+ },
+ {
+  "t": "Meta launches new AI models to compete with OpenAI and Anthropic",
+  "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVkR1S3ZsalZkRjlRRkxEdVVBbU5ENUdtM3AxanQ1cXdNUW40RTNWRkkyUFJ0N3dmS0Nyd1oyUlBxUktvZ29pMGdDWXA1anFzNHVsQzZtRGs2ei16Nk5LOFZfZzVUbTVHSHRDS2lTMHlsX1oweEY5NEJUa0lGWnA1R2lzTURJclBMYmxaci1xcmRYMEhnMEFNSm5LSkVOd040?oc=5",
+  "d": "2026-10-13",
+  "sum": "Meta launches new AI models to compete with OpenAI and Anthropic Anadolu Ajansı",
+  "src": "Anadolu Ajansı",
+  "topics": [],
+  "launch": false,
+  "firstSeen": "2026-10-15"
+ },
+ {
+  "t": "Meta launches Muse Wonder, catching OpenAI, Anthropic: How to try it, benchmark results",
+  "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jQWhkclNlSmV2TEZzY19JYW8wQ3pkZVhFNzFLaElxdHh2bFprTGwyYWxIVmtMd2tEMEw3bjVaMFJfQU9xU0lVQ2Q1S2owb185YXFpdElfZzVxTnJ6b1FMSWdZaFJSTFFWb1dTRzBqbjJjcngyb0E?oc=5",
+  "d": "2026-10-13",
+  "sum": "Meta launches Muse Wonder, catching OpenAI, Anthropic: How to try it, benchmark results Mashable",
+  "src": "Mashable",
+  "topics": [
+   "evals"
+  ],
+  "launch": false,
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "Facebook will let you customize your feed algorithm using AI",
@@ -302,46 +611,6 @@
   "firstSeen": "2026-10-14"
  },
  {
-  "t": "Houthis used Claude to develop missiles, test-fired rocket: Anthropic",
-  "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNS1pBZXFfUThVbzNtcUNUUkhFdV9yRGxlNG8yZFo4MEo5QXFzN0NSckVjbEN5MHRqRkV6VnJUeHlzMXJnVHg0LVp2QUxUdVdIV2pWVmRLeVdUNUM1LVhNNHE0N1NDY2FtdjJwS0xEQVpXVldJOXZQNXB6RWdpaFRUdHJwNWxET24xRy1adFJXZUFvcFQtRXZCTDZnTlJ2b2d5elJQTU9vVEQ2Nm02LUhkMDZFb3YtRGQ2Q1RSaUxNM3FmX0VIN0hXVW5aMWZuY1V6WmszLTZZUFJWMG5HLTFxbXRPTFoxYmtINTRLT9IB8gFBVV95cUxQeG5CVG1jZVlJa2ZDdUdFZFN3ZVIxQ2FZYi1Ia21LbHA0VjAtYVdYZi12Sl9BSVZ6c1RUM0lwU2VWWW9sLXBLUGtRelRIaFFKOFpUWWhFa2xrRHVlNFFNOVdSdUViYXhUdF9HSnFyYzhpR0IyalVYbEpVSWxRWUlFMDRwY015QjRtUDRHTWRKZmV5ekdiZUJCQ0tTOVhPT0kxdTFycDVodTNXdldqRXVVejU1Z1lpRHd5TXk1a1YwVldBUF9uUEJNVEphUFpFLXZmVm40amZmdGljQ1AzZ0l3R2RIN0NBcE1fMmJuNlRBR3RKQQ?oc=5",
-  "d": "2026-10-13",
-  "sum": "Houthis used Claude to develop missiles, test-fired rocket: Anthropic Business Standard",
-  "src": "Business Standard",
-  "topics": [],
-  "launch": false,
-  "firstSeen": "2026-10-14"
- },
- {
-  "t": "Meta launches new AI models to compete with OpenAI and Anthropic",
-  "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVkR1S3ZsalZkRjlRRkxEdVVBbU5ENUdtM3AxanQ1cXdNUW40RTNWRkkyUFJ0N3dmS0Nyd1oyUlBxUktvZ29pMGdDWXA1anFzNHVsQzZtRGs2ei16Nk5LOFZfZzVUbTVHSHRDS2lTMHlsX1oweEY5NEJUa0lGWnA1R2lzTURJclBMYmxaci1xcmRYMEhnMEFNSm5LSkVOd040?oc=5",
-  "d": "2026-10-13",
-  "sum": "Meta launches new AI models to compete with OpenAI and Anthropic Anadolu Ajansı",
-  "src": "Anadolu Ajansı",
-  "topics": [],
-  "launch": false,
-  "firstSeen": "2026-10-14"
- },
- {
-  "t": "Meta Launches Muse Wonder AI Models to Play Catch-Up With Rivals",
-  "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQU1Y0UFdHdXdYYkstX3lYcmRKUUxESnh5cEx1Y0p3ZlgxM0ZoR3N0eEExNWZqaEZGVzYwb1VIRVM4NTdMeDdGazRlUUR6dGl4SWNLUHNIOUxoZGZERThIaDlTRi04WXZPT3Fqc3owNGNVanlWTTZvVTBmTEtQbFVNZjJyVnNSQQ?oc=5",
-  "d": "2026-10-13",
-  "sum": "Meta Launches Muse Wonder AI Models to Play Catch-Up With Rivals CNET",
-  "src": "CNET",
-  "topics": [],
-  "launch": false,
-  "firstSeen": "2026-10-14"
- },
- {
-  "t": "Google launches flagship AI model Gemini 4 Argon for developers, businesses",
-  "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQclhsaXp4NUtqeVJDQTNIUjVXQVdJcnNXYnpYZUFTZm4wY3UxcTM1SzJvdzRBNE9HaURlNG1obzFGQ0o3R0pWNVJfNGFDOUdFZnhfdEJxSkszQ2hZQlowMjdCbVliRE9uX3A5ak1CYkJHOEV1elBYRWgtUHBwdF9lcWEyUGdjbmhQb2JONkpNeWhLTHgzQzRhRFRnZTEwcDRCa3k3RkpxY0c5Z1RsSlFCSmQwNmRmQQ?oc=5",
-  "d": "2026-10-13",
-  "sum": "Google launches flagship AI model Gemini 4 Argon for developers, businesses Reuters",
-  "src": "Reuters",
-  "topics": [],
-  "launch": true,
-  "firstSeen": "2026-10-14"
- },
- {
   "t": "Meta says its new AI models on par with OpenAI, Anthropic",
   "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNU00wNnFySVNBc0pVMHN5Z3hka0xuS1ExdjRBODNpbnBTdU5NZnUtb08wZGZLbFIzQ0JyM2JVdkVzajFtTmNJS3JPaWxna0dZZkRGUlc1ZkxlT2JiRFlrQXk0X2xUWFo5YlJiSWdJS25OY3BQVmVBWGFZVlVMVzlzNEQzcWlNSnVBNWlBdmRDY1BqaDVnU1A1ZlRncXpyT2dYc18wd1YxZnVjR1MyQWN1dXJFaHZDMGFjZWxra1UxZjcxeUdoTGNPWVI5TldZczlLVHN5VDN30gHbAUFVX3lxTE5VQ1dWOG0wRHJCVGdCVVF5WTVKV1VWaG9XNncwaFo0MXpfQnV0ZEt6X0RBRlprNjN3YndVSWg0OTlOSjR4RHNfdExPbVNyOFZwZ0RaSUlLc000TDN5Z3I4UWtkT3Bfczd3LVBGek9WOU5GdS1nekJheVcxeU93TE82YkRhcFVfcm90b0ZMcjczNXZGNThnMnJTLVpCOHIzemd2TjVnUm5Xb2RNWVM4S2RwUm10YnRYYVhYSE1WaWNONG9ZbnNwR3NRbTFzdUtQNm85MmVOVGVuYTBRYw?oc=5",
   "d": "2026-10-13",
@@ -361,7 +630,7 @@
    "coding-agents"
   ],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "web-edit 0.1a0",
@@ -374,7 +643,7 @@
    "coding-agents"
   ],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "How Anthropic’s Dynamic Workflows Coordinate Claude Agents",
@@ -386,7 +655,27 @@
    "agents"
   ],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
+ },
+ {
+  "t": "Meta debuts Muse Wonder AI model in latest test of users' willingness to pay",
+  "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11QldFTGNiMGg4N0FwZHE0OGl5ZTBoZkZGdnBjZ1ZyOURmb1lxUHZScVViOXQzMzNmZnJBdlNPbE1xdkVTWEpLSXVPR1R1ajRmTElvSi1JNG5YbHk0SnlnUUhVZzR5SG16YXZyMWFQQWQ2YzRUUmpZ0gF8QVVfeXFMUFVKWjBUSUhEcDFKSk1lQ2M0dVNWMHYtZVVlbkRfS0ZTVnZIQ0E2elc1UEdSbkFKcXRncjhOVjAteDJ0Y0R2YzVhRGlOY0tOWnpuUjN0dmxHSy0zUVk3bW5RWFBlUTJ5LWd0WWMxaEpqVkoxY05pdzY4a3JzSA?oc=5",
+  "d": "2026-10-12",
+  "sum": "Meta debuts Muse Wonder AI model in latest test of users' willingness to pay CNBC",
+  "src": "CNBC",
+  "topics": [],
+  "launch": true,
+  "firstSeen": "2026-10-15"
+ },
+ {
+  "t": "Meta has some Wonder Full new AI models",
+  "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdU1sVHpGd1VNUXZ5djFJN2FsSGlNWGQzalhzdDd5emt2UnJrUkdoYVN0ZzNxVFp3N21ZWi1KMEZRQUIzM19jenIyMjgxWThaMUxubm13Zm02am1tVk9JRkhhd1B2VTNnVm9ZcmZfaWs0M3d1UnVRWUxSY0ZyOHhXMkNBeGVudXdiUE9KNDdmQlFQREx1?oc=5",
+  "d": "2026-10-12",
+  "sum": "Meta has some Wonder Full new AI models The Verge",
+  "src": "The Verge",
+  "topics": [],
+  "launch": false,
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "The gap in shared understanding of LLM capability is widening",
@@ -397,26 +686,6 @@
   "topics": [
    "fundamentals"
   ],
-  "launch": false,
-  "firstSeen": "2026-10-14"
- },
- {
-  "t": "Meta debuts Muse Wonder AI model in latest test of users' willingness to pay",
-  "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11QldFTGNiMGg4N0FwZHE0OGl5ZTBoZkZGdnBjZ1ZyOURmb1lxUHZScVViOXQzMzNmZnJBdlNPbE1xdkVTWEpLSXVPR1R1ajRmTElvSi1JNG5YbHk0SnlnUUhVZzR5SG16YXZyMWFQQWQ2YzRUUmpZ0gF8QVVfeXFMUFVKWjBUSUhEcDFKSk1lQ2M0dVNWMHYtZVVlbkRfS0ZTVnZIQ0E2elc1UEdSbkFKcXRncjhOVjAteDJ0Y0R2YzVhRGlOY0tOWnpuUjN0dmxHSy0zUVk3bW5RWFBlUTJ5LWd0WWMxaEpqVkoxY05pdzY4a3JzSA?oc=5",
-  "d": "2026-10-12",
-  "sum": "Meta debuts Muse Wonder AI model in latest test of users' willingness to pay CNBC",
-  "src": "CNBC",
-  "topics": [],
-  "launch": true,
-  "firstSeen": "2026-10-14"
- },
- {
-  "t": "Meta has some Wonder Full new AI models",
-  "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdU1sVHpGd1VNUXZ5djFJN2FsSGlNWGQzalhzdDd5emt2UnJrUkdoYVN0ZzNxVFp3N21ZWi1KMEZRQUIzM19jenIyMjgxWThaMUxubm13Zm02am1tVk9JRkhhd1B2VTNnVm9ZcmZfaWs0M3d1UnVRWUxSY0ZyOHhXMkNBeGVudXdiUE9KNDdmQlFQREx1?oc=5",
-  "d": "2026-10-12",
-  "sum": "Meta has some Wonder Full new AI models The Verge",
-  "src": "The Verge",
-  "topics": [],
   "launch": false,
   "firstSeen": "2026-10-14"
  },
@@ -508,7 +777,7 @@
    "agents"
   ],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "Building AI for Reliable Execution: Lessons From Industrial Robotics",
@@ -518,7 +787,7 @@
   "src": "Latent Space",
   "topics": [],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub",
@@ -530,7 +799,7 @@
    "fundamentals"
   ],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "Anthropic cuts internet access for Claude during testing after it goes rogue; breaking into US websites,",
@@ -540,7 +809,7 @@
   "src": "The Times of India",
   "topics": [],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "Anthropic | History, Controversies, & Claude AI",
@@ -550,7 +819,19 @@
   "src": "Britannica",
   "topics": [],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
+ },
+ {
+  "t": "Managing Access to MCP Servers with OCI IAM",
+  "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPa3g5bGVrVnpMUGlXY2lzOWQwV3V1MFJ3b2ppNlQydHhuX19zb2VFazZBbnNzS1IydmU3QmdDWktubk00N1M0ZnJvRk9GaWhEV2k0dHNNekxQUV92TmRiYWc0dmUyUGU2TXN3Q2ZvTEZGNUxPN3NMQUE0NU5qekZTZVNzZUFpUQ?oc=5",
+  "d": "2026-10-10",
+  "sum": "Managing Access to MCP Servers with OCI IAM Oracle Blogs",
+  "src": "Oracle Blogs",
+  "topics": [
+   "mcp"
+  ],
+  "launch": false,
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "Anthropic is cutting off its internal evaluations from the internet",
@@ -599,18 +880,6 @@
   "firstSeen": "2026-10-13"
  },
  {
-  "t": "Managing Access to MCP Servers with OCI IAM",
-  "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPa3g5bGVrVnpMUGlXY2lzOWQwV3V1MFJ3b2ppNlQydHhuX19zb2VFazZBbnNzS1IydmU3QmdDWktubk00N1M0ZnJvRk9GaWhEV2k0dHNNekxQUV92TmRiYWc0dmUyUGU2TXN3Q2ZvTEZGNUxPN3NMQUE0NU5qekZTZVNzZUFpUQ?oc=5",
-  "d": "2026-10-10",
-  "sum": "Managing Access to MCP Servers with OCI IAM Oracle Blogs",
-  "src": "Oracle Blogs",
-  "topics": [
-   "mcp"
-  ],
-  "launch": false,
-  "firstSeen": "2026-10-13"
- },
- {
   "t": "Introducing Microsoft-Decision-1, our model for fast decision-making",
   "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1jQVpWd2UtQllkVWRKNDNlZm9JdzR3b09fTm5GdjNmb2FTTmRHZ1NJMHA0bDZ6S1hjdmNmNTluM01zcnZpM1d0dlRmb3JZUWgyR194NlZPSTBjNGVkeTRRUGNUZGlUbUE5UnJLU25CLXVHTGFTNnpJWA?oc=5",
   "d": "2026-10-10",
@@ -619,18 +888,6 @@
   "topics": [],
   "launch": true,
   "firstSeen": "2026-10-12"
- },
- {
-  "t": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-  "u": "https://openai.com/index/sophos",
-  "d": "2026-10-09",
-  "sum": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-  "src": "OpenAI",
-  "topics": [
-   "security"
-  ],
-  "launch": false,
-  "firstSeen": "2026-10-14"
  },
  {
   "t": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
@@ -644,7 +901,19 @@
    "cost"
   ],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
+ },
+ {
+  "t": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+  "u": "https://openai.com/index/sophos",
+  "d": "2026-10-09",
+  "sum": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+  "src": "OpenAI",
+  "topics": [
+   "security"
+  ],
+  "launch": false,
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "ttok 1.0",
@@ -654,7 +923,7 @@
   "src": "Simon Willison",
   "topics": [],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "We’re putting too much faith in AI’s ability to say no",
@@ -664,7 +933,7 @@
   "src": "MIT Technology Review",
   "topics": [],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
@@ -674,7 +943,7 @@
   "src": "MIT Technology Review",
   "topics": [],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "Anthropic launches dashboard, animation tools for Claude",
@@ -684,17 +953,27 @@
   "src": "Reuters",
   "topics": [],
   "launch": true,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
-  "t": "Anthropic Bans Being Excessively Mean To Claude",
+  "t": "Anthropic Prohibits Being Excessively ‘Cruel’ To Claude",
   "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVFdUOVUxZWlsaklRN003RVp3LVYxYWZ6d1JiTl93UnBKcXdhTHQxSV92TElyOWpoSGZvUjdmdXlqWkFsbk1jYWJBb1U1M1FiYl94QTJWOFVubWtFeERadEJMb1RlZVE0NHZSOFd3cGV6X2NqeEcwVWdiZ2NWRWVOLUVBQkJQdmFCLXJVMUhtdEx3NUwzUWpfblN1WC1uWGI4aU9YQ3lOb0xBMGxHZ0RDcw?oc=5",
   "d": "2026-10-09",
-  "sum": "Anthropic Bans Being Excessively Mean To Claude Forbes",
+  "sum": "Anthropic Prohibits Being Excessively ‘Cruel’ To Claude Forbes",
   "src": "Forbes",
   "topics": [],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
+ },
+ {
+  "t": "Anthropic bans users from ‘needless abusive or cruel behavior’ towards Claude",
+  "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPb2lja2Y3b2J4SGw2TDhuWUNxNmxablZvTlcwSVg4eHhuSUFwNUEzQTd0WFhOTlJMd0F5UHBDSnhxTl9nVXJlNjFrZVBSc1Zic01sZ1RuZ2tTTlQ3RVVLUEw5OFI2NDcwNzNPSVpYTUJmR1pVdmd2NWkyOUtxcTg5bC05ckRhX1pnSVRZdVhLSlQ0ckU?oc=5",
+  "d": "2026-10-09",
+  "sum": "Anthropic bans users from ‘needless abusive or cruel behavior’ towards Claude The Guardian",
+  "src": "The Guardian",
+  "topics": [],
+  "launch": false,
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "Build Your First MCP Server in Python (Stateless Spec Edition)",
@@ -705,6 +984,16 @@
   "topics": [
    "mcp"
   ],
+  "launch": false,
+  "firstSeen": "2026-10-15"
+ },
+ {
+  "t": "Anthropic Bans Being Excessively Mean To Claude",
+  "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVFdUOVUxZWlsaklRN003RVp3LVYxYWZ6d1JiTl93UnBKcXdhTHQxSV92TElyOWpoSGZvUjdmdXlqWkFsbk1jYWJBb1U1M1FiYl94QTJWOFVubWtFeERadEJMb1RlZVE0NHZSOFd3cGV6X2NqeEcwVWdiZ2NWRWVOLUVBQkJQdmFCLXJVMUhtdEx3NUwzUWpfblN1WC1uWGI4aU9YQ3lOb0xBMGxHZ0RDcw?oc=5",
+  "d": "2026-10-09",
+  "sum": "Anthropic Bans Being Excessively Mean To Claude Forbes",
+  "src": "Forbes",
+  "topics": [],
   "launch": false,
   "firstSeen": "2026-10-14"
  },
@@ -726,26 +1015,6 @@
   "d": "2026-10-09",
   "sum": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he changed \"fake news\" from a phrase describing scammy media outlets to a derogator",
   "src": "The Verge AI",
-  "topics": [],
-  "launch": false,
-  "firstSeen": "2026-10-12"
- },
- {
-  "t": "Anthropic Prohibits Being Excessively ‘Cruel’ To Claude",
-  "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVFdUOVUxZWlsaklRN003RVp3LVYxYWZ6d1JiTl93UnBKcXdhTHQxSV92TElyOWpoSGZvUjdmdXlqWkFsbk1jYWJBb1U1M1FiYl94QTJWOFVubWtFeERadEJMb1RlZVE0NHZSOFd3cGV6X2NqeEcwVWdiZ2NWRWVOLUVBQkJQdmFCLXJVMUhtdEx3NUwzUWpfblN1WC1uWGI4aU9YQ3lOb0xBMGxHZ0RDcw?oc=5",
-  "d": "2026-10-09",
-  "sum": "Anthropic Prohibits Being Excessively ‘Cruel’ To Claude Forbes",
-  "src": "Forbes",
-  "topics": [],
-  "launch": false,
-  "firstSeen": "2026-10-12"
- },
- {
-  "t": "Anthropic bans users from ‘needless abusive or cruel behavior’ towards Claude",
-  "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPb2lja2Y3b2J4SGw2TDhuWUNxNmxablZvTlcwSVg4eHhuSUFwNUEzQTd0WFhOTlJMd0F5UHBDSnhxTl9nVXJlNjFrZVBSc1Zic01sZ1RuZ2tTTlQ3RVVLUEw5OFI2NDcwNzNPSVpYTUJmR1pVdmd2NWkyOUtxcTg5bC05ckRhX1pnSVRZdVhLSlQ0ckU?oc=5",
-  "d": "2026-10-09",
-  "sum": "Anthropic bans users from ‘needless abusive or cruel behavior’ towards Claude The Guardian",
-  "src": "The Guardian",
   "topics": [],
   "launch": false,
   "firstSeen": "2026-10-12"
@@ -824,7 +1093,7 @@
    "multimodal"
   ],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "Disrupting AI-enabled “false front” operations",
@@ -834,7 +1103,7 @@
   "src": "OpenAI",
   "topics": [],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "The model that didn't exist, so you made it yourself",
@@ -844,7 +1113,7 @@
   "src": "Hugging Face",
   "topics": [],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "Quoting Ben Affleck",
@@ -854,7 +1123,7 @@
   "src": "Simon Willison",
   "topics": [],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "Claude Haiku 5.5",
@@ -866,7 +1135,7 @@
    "cost"
   ],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "[AINews] Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing",
@@ -878,7 +1147,7 @@
    "cost"
   ],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "AI breakthroughs in robotics won’t change your life any time soon",
@@ -888,7 +1157,7 @@
   "src": "MIT Technology Review",
   "topics": [],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "Building a safer path to autonomous industrial AI",
@@ -900,7 +1169,17 @@
    "agents"
   ],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
+ },
+ {
+  "t": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
+  "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRHp1a0RodHB0TloxZW1vN3pSUFl6VkJyLWFvUXk3RHp5ZWVadUFJWlotZTk2SG5oanR6V3JRMGRMVDB5YThFUVBWaVYyZWFfalBneDl0THFXb0U0NmZHUVQzN1RZS1dGNmZ6X01rMlBoeWNpZEhrYmQzalItcVpyS2p1WFJDMUFMMHBFREZWeHJaNlh1Q0Vka0lHQWxHNy1S?oc=5",
+  "d": "2026-10-08",
+  "sum": "Anthropic bans ‘abusive or cruel behavior’ toward Claude The Verge",
+  "src": "The Verge",
+  "topics": [],
+  "launch": false,
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "I think I found a planet nobody knew existed. I used Claude Code to find it",
@@ -971,16 +1250,6 @@
   "topics": [],
   "launch": true,
   "firstSeen": "2026-10-13"
- },
- {
-  "t": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
-  "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRHp1a0RodHB0TloxZW1vN3pSUFl6VkJyLWFvUXk3RHp5ZWVadUFJWlotZTk2SG5oanR6V3JRMGRMVDB5YThFUVBWaVYyZWFfalBneDl0THFXb0U0NmZHUVQzN1RZS1dGNmZ6X01rMlBoeWNpZEhrYmQzalItcVpyS2p1WFJDMUFMMHBFREZWeHJaNlh1Q0Vka0lHQWxHNy1S?oc=5",
-  "d": "2026-10-08",
-  "sum": "Anthropic bans ‘abusive or cruel behavior’ toward Claude The Verge",
-  "src": "The Verge",
-  "topics": [],
-  "launch": false,
-  "firstSeen": "2026-10-12"
  },
  {
   "t": "Anthropic unveils Haiku 5.5, its third AI model in a month ahead of planned IPO",
@@ -1084,7 +1353,7 @@
    "ai-at-work"
   ],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "Radisson Hotel Group brings hotel discovery into ChatGPT",
@@ -1097,7 +1366,7 @@
    "skills"
   ],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "GPT-6 and Intelligent UI for everyone",
@@ -1109,7 +1378,7 @@
    "ai-at-work"
   ],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
@@ -1122,7 +1391,7 @@
    "multimodal"
   ],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
@@ -1135,7 +1404,7 @@
    "post-training"
   ],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "OpenAI “rogue” agent activities found on Wikimedia projects",
@@ -1147,7 +1416,7 @@
    "agents"
   ],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "Quoting Victoria Kim",
@@ -1159,7 +1428,7 @@
    "ai-at-work"
   ],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "llm-openai-decisions 0.1a0",
@@ -1172,7 +1441,7 @@
    "skills"
   ],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "llm-mistral 0.16",
@@ -1185,7 +1454,7 @@
    "open-models"
   ],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "EmbeddingGemma 2",
@@ -1197,7 +1466,7 @@
    "rag"
   ],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "Introducing Mistral Large 4: Le chonk",
@@ -1209,7 +1478,7 @@
    "open-models"
   ],
   "launch": true,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "Can a Cloud-Native Harness Make Agents Reliable Beyond the Desktop?",
@@ -1221,7 +1490,7 @@
    "agents"
   ],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "[AINews] Quasi-Riemann-Hypothesis: OpenAI publishes 722 math papers solving 90 of the top 500 open math problems; “the most significant moment” in >100 years of mathematics",
@@ -1231,7 +1500,7 @@
   "src": "Latent Space",
   "topics": [],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "Building Harvey’s MCP Policy Engine",
@@ -1244,7 +1513,7 @@
    "strategy"
   ],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "Precisely brings enterprise data tools to AI agents through MCP",
@@ -1390,7 +1659,7 @@
    "fundamentals"
   ],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "Sharing AI progress in mathematics",
@@ -1400,7 +1669,7 @@
   "src": "OpenAI",
   "topics": [],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "Advancing computer use with Ironclad",
@@ -1413,7 +1682,7 @@
    "evals"
   ],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
@@ -1425,7 +1694,19 @@
    "strategy"
   ],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
+ },
+ {
+  "t": "[AINews] Reflection Beam - 501B-A23B American Open Model",
+  "u": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
+  "d": "2026-10-06",
+  "sum": "A small win for US open source",
+  "src": "Latent Space",
+  "topics": [
+   "open-models"
+  ],
+  "launch": false,
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "Mistral Large 4",
@@ -1436,18 +1717,6 @@
   "topics": [
    "fundamentals",
    "evals",
-   "open-models"
-  ],
-  "launch": false,
-  "firstSeen": "2026-10-14"
- },
- {
-  "t": "[AINews] Reflection Beam - 501B-A23B American Open Model",
-  "u": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
-  "d": "2026-10-06",
-  "sum": "A small win for US open source",
-  "src": "Latent Space",
-  "topics": [
    "open-models"
   ],
   "launch": false,
@@ -1657,7 +1926,7 @@
   "src": "OpenAI",
   "topics": [],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "Building advertising for the way people use AI",
@@ -1669,7 +1938,7 @@
    "ai-at-work"
   ],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "Connecting AI agents to enterprise knowledge",
@@ -1682,7 +1951,7 @@
    "strategy"
   ],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "Bringing predictive analytics to the agentic AI era",
@@ -1695,7 +1964,7 @@
    "strategy"
   ],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "People really hate AI, so why can’t they get enough?",
@@ -1707,7 +1976,7 @@
    "fundamentals"
   ],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "EmTech Future 2026: When AI Meets Everything",
@@ -1717,7 +1986,7 @@
   "src": "MIT Technology Review",
   "topics": [],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "Qwen3.8 27B addition in words",
@@ -1848,7 +2117,7 @@
    "agents"
   ],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "September sponsors-only newsletter",
@@ -2015,7 +2284,7 @@
    "skills"
   ],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "Chatham scales its capital markets expertise with OpenAI",
@@ -2027,7 +2296,7 @@
    "coding-agents"
   ],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "The latest AI news we announced in September 2026",
@@ -2037,7 +2306,7 @@
   "src": "Google AI",
   "topics": [],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "AutoSynthData: Generating Training Data for Enterprise Agents",
@@ -2050,7 +2319,7 @@
    "strategy"
   ],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "Inside-Out AI: Rebuilding Airbnb Behind the Scenes and Across the Guest Experience",
@@ -2062,7 +2331,7 @@
    "open-models"
   ],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "From the creator of Redis; run LLM locally with ds4",
@@ -2243,7 +2512,7 @@
    "coding-agents"
   ],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "How Albertsons Companies is reimagining retail from the inside out",
@@ -2256,7 +2525,7 @@
    "strategy"
   ],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "Gemini 4 Argon: our next era of frontier intelligence",
@@ -2266,7 +2535,7 @@
   "src": "Google DeepMind",
   "topics": [],
   "launch": false,
-  "firstSeen": "2026-10-14"
+  "firstSeen": "2026-10-15"
  },
  {
   "t": "[AINews] Gemini 4 Argon: GDM’s answer to Astra/Fable, with 1M output",
@@ -4346,279 +4615,5 @@
   ],
   "launch": false,
   "firstSeen": "2026-10-05"
- },
- {
-  "t": "Don’t be fooled by this summer of AI hype",
-  "u": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
-  "d": "2026-09-22",
-  "sum": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (",
-  "src": "MIT Technology Review",
-  "topics": [
-   "security"
-  ],
-  "launch": false,
-  "firstSeen": "2026-10-04"
- },
- {
-  "t": "Jev introduces a new shape of LLM - System One, aka Decision Models",
-  "u": "https://simonwillison.net/2026/Sep/21/jev/",
-  "d": "2026-09-22",
-  "sum": "Last week TypeSafe AI unveiled Jev , their first example of a new category of model that they are calling \"System One models\" (I'm with Maggie Appleton, I think \"decision models\" is a better name for these). Jev is an interesting variant on the usual LLM forma",
-  "src": "Simon Willison",
-  "topics": [
-   "fundamentals"
-  ],
-  "launch": false,
-  "firstSeen": "2026-10-03"
- },
- {
-  "t": "GPT-6 Sol and Luna",
-  "u": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
-  "d": "2026-09-22",
-  "sum": "Article URL: https://openai.com/index/introducing-gpt-6-sol-and-luna/ Comments URL: https://news.ycombinator.com/item?id=49805509 Points: 1779 # Comments: 855",
-  "src": "Hacker News",
-  "topics": [],
-  "launch": false,
-  "firstSeen": "2026-10-02"
- },
- {
-  "t": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
-  "u": "https://artificialanalysis.ai/models/claude-opus-5-5",
-  "d": "2026-09-22",
-  "sum": "Article URL: https://artificialanalysis.ai/models/claude-opus-5-5 Comments URL: https://news.ycombinator.com/item?id=49804316 Points: 333 # Comments: 106",
-  "src": "Hacker News",
-  "topics": [
-   "cost"
-  ],
-  "launch": false,
-  "firstSeen": "2026-10-02"
- },
- {
-  "t": "Claude Opus 5.5",
-  "u": "https://www.anthropic.com/claude-opus-5-5",
-  "d": "2026-09-22",
-  "sum": "Article URL: https://www.anthropic.com/claude-opus-5-5 Comments URL: https://news.ycombinator.com/item?id=49803892 Points: 1806 # Comments: 1133",
-  "src": "Hacker News",
-  "topics": [],
-  "launch": false,
-  "firstSeen": "2026-10-02"
- },
- {
-  "t": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-  "u": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
-  "d": "2026-09-22",
-  "sum": "Article URL: https://www.cryptocellar.org/bgac/the-mvueh-break.html Comments URL: https://news.ycombinator.com/item?id=49801324 Points: 736 # Comments: 447",
-  "src": "Hacker News",
-  "topics": [],
-  "launch": false,
-  "firstSeen": "2026-09-29"
- },
- {
-  "t": "Claude Opus 5.5 is now available on AWS | Artificial Intelligence",
-  "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUF84Y3BrZ1ZCZC1FLWwtVi1VcGJBU0xpQmpKSlBsenowckNCRnFsa2FkdmRDb25oTGx0Q0VXbG02MFh0NUg5NlptUmdTcDU2WmdONERITlZlVFNSZzNjakw4dE4yQWUtbHlqQ041VlRnZU8yUVZmejd6bVl1QmlZaXIxc09nbXNQT1lfNU1Eaw?oc=5",
-  "d": "2026-09-22",
-  "sum": "Claude Opus 5.5 is now available on AWS | Artificial Intelligence aws.amazon.com",
-  "src": "aws.amazon.com",
-  "topics": [],
-  "launch": true,
-  "firstSeen": "2026-09-29"
- },
- {
-  "t": "Alibaba deepens AI push with new chip, bigger model; shares jump 5%",
-  "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUlcybzdOMWxNcmJHT1ZvUHFRTkczZzRNbHpkeUM1QjVxak5WMVdfTldrMWRtaTdHd1FvZkUwbGN4NmhwdUFSdmJxdVBVTGZxNFBWMUNqQXU3dlJzM1VXOHZsYmliZmxBRl90eFF6dEFZWl9BQTJTdkdxaDBSMGVrSXBJUkFVQkx1RTFOcktHZDQ4blo4VFh0amtSRmYxU2YxeGdQdUhFa25DeDBjSllsaVBsUVQ3X3VYdnRKMTAxN1BzZFQzUUpGSVI3TXZBZmRuTlhjejFB?oc=5",
-  "d": "2026-09-22",
-  "sum": "Alibaba deepens AI push with new chip, bigger model; shares jump 5% Reuters",
-  "src": "Reuters",
-  "topics": [],
-  "launch": false,
-  "firstSeen": "2026-09-28"
- },
- {
-  "t": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown",
-  "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1sZVdROFlLTUpZMmZPb0lWNWUtenNWaDhjX2JqeVZQM19lM2JVMmNYSHllQXczQWN5VVFHejNVOGFVU2NpVXdHQnJiWEU0eENSTmxaZGFBaTNQNXd3Vi1WM25wTVg3bjI1TEFsX2x3VlVHYzZWLWRvVW5vUdIBgAFBVV95cUxNWlZ6cE5mOEo5cUFESnpnbEFnU3h6OEhFU2hRWVFUNVVMR1FTUXk4cnR0b2Vjb3V2LVRUQXR3dl9sZDRKamNnYkhpQ3hMM3ZsckdaTlk5a2p2NDRud25uMWtUV1E0Ny1NblVMWTlGNTdYdTF6Q0JsZ3l5V3hOaHQ1cA?oc=5",
-  "d": "2026-09-22",
-  "sum": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown CNBC",
-  "src": "CNBC",
-  "topics": [
-   "cost"
-  ],
-  "launch": false,
-  "firstSeen": "2026-09-27"
- },
- {
-  "d": "2026-09-22",
-  "t": "Claude Opus 5.5 launches: Fable-level performance, 40% cheaper than Opus 5",
-  "u": "https://platform.claude.com/docs/en/about-claude/models/overview",
-  "src": "Anthropic",
-  "sum": "Anthropic's new Opus model runs at $4/$20 per million tokens with a 1M-token context and adaptive thinking.",
-  "seed": true,
-  "topics": [
-   "fundamentals",
-   "cost"
-  ],
-  "launch": true,
-  "firstSeen": "2026-09-27"
- },
- {
-  "d": "2026-09-22",
-  "t": "OpenAI releases GPT-6 Sol and Luna with roughly half the API price",
-  "u": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
-  "src": "OpenAI",
-  "sum": "Cheaper GPT-6 tiers arrive in the API, ChatGPT and Codex.",
-  "seed": true,
-  "topics": [
-   "ai-at-work",
-   "coding-agents",
-   "cost"
-  ],
-  "launch": true,
-  "firstSeen": "2026-09-27"
- },
- {
-  "t": "Advisory Group on Mathematics and Artificial Intelligence",
-  "u": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-  "d": "2026-09-21",
-  "sum": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
-  "src": "OpenAI",
-  "topics": [],
-  "launch": false,
-  "firstSeen": "2026-10-05"
- },
- {
-  "t": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-  "u": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-  "d": "2026-09-21",
-  "sum": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
-  "src": "OpenAI",
-  "topics": [
-   "multimodal"
-  ],
-  "launch": false,
-  "firstSeen": "2026-10-05"
- },
- {
-  "t": "Building standards for the next phase of AI",
-  "u": "https://openai.com/index/building-standards-next-phase-ai",
-  "d": "2026-09-21",
-  "sum": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
-  "src": "OpenAI",
-  "topics": [
-   "evals",
-   "security",
-   "strategy"
-  ],
-  "launch": false,
-  "firstSeen": "2026-10-05"
- },
- {
-  "t": "Expanding OpenAI Academy with new learning paths",
-  "u": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
-  "d": "2026-09-21",
-  "sum": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
-  "src": "OpenAI",
-  "topics": [
-   "skills"
-  ],
-  "launch": false,
-  "firstSeen": "2026-10-05"
- },
- {
-  "t": "V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna",
-  "u": "https://openai.com/index/v7",
-  "d": "2026-09-21",
-  "sum": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
-  "src": "OpenAI",
-  "topics": [
-   "agents",
-   "cost"
-  ],
-  "launch": false,
-  "firstSeen": "2026-10-05"
- },
- {
-  "t": "MCP Is Becoming the Plumbing of Agentic ERP—ERP Leaders Need to Understand It",
-  "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xQkgyWTNtN3pqaUpVR2RUT2VmUHdwVWhXMTlVVmRGbzNxZGRsekpmdkw5WVItYnpTNlJmcGhmdk00YVFWUDZ6MXNDZTF1aDFUbzVUU3lNcUU5dmIxTFVkMmJkTmtKYVE?oc=5",
-  "d": "2026-09-21",
-  "sum": "MCP Is Becoming the Plumbing of Agentic ERP—ERP Leaders Need to Understand It ERP Today",
-  "src": "ERP Today",
-  "topics": [
-   "agents",
-   "mcp"
-  ],
-  "launch": false,
-  "firstSeen": "2026-10-04"
- },
- {
-  "t": "Quoting voxium",
-  "u": "https://simonwillison.net/2026/Sep/20/voxium/",
-  "d": "2026-09-21",
-  "sum": "It has been half a month since I started a new role at a big company. Nobody knows anything here. The specs, code, tests, PRDs, tickets, resolution of those tickets, reports, etc., everything is made by Claude Code. Nobody on my team likes this. They are being",
-  "src": "Simon Willison",
-  "topics": [
-   "coding-agents"
-  ],
-  "launch": false,
-  "firstSeen": "2026-10-03"
- },
- {
-  "t": "MCP was always a bad idea?",
-  "u": "https://simonwillison.net/2026/Sep/20/hn-49779718/",
-  "d": "2026-09-21",
-  "sum": "My comment on MCP was always a bad idea? — Hacker News. This article entirely misses the value that MCP brings today. Sure, there's almost no reason to use MCPs if you are running a full-blown terminal agent (Claude Code, Codex, Meta Muse, OpenClaw etc) with u",
-  "src": "Simon Willison",
-  "topics": [
-   "coding-agents",
-   "agents",
-   "mcp"
-  ],
-  "launch": false,
-  "firstSeen": "2026-09-30"
- },
- {
-  "t": "llm-keys-ui 0.1",
-  "u": "https://simonwillison.net/2026/Sep/20/llm-keys-ui/",
-  "d": "2026-09-21",
-  "sum": "Release: llm-keys-ui 0.1 This plugin solves a very specific problem. I've started using Codex Remote to run coding agents on various machines while controlling them from my phone. Sometimes I use those machines to hack on LLM projects, and occasionally that me",
-  "src": "Simon Willison",
-  "topics": [
-   "fundamentals",
-   "coding-agents",
-   "agents",
-   "skills"
-  ],
-  "launch": false,
-  "firstSeen": "2026-09-30"
- },
- {
-  "t": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-  "u": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
-  "d": "2026-09-21",
-  "sum": "",
-  "src": "Hugging Face",
-  "topics": [
-   "fundamentals"
-  ],
-  "launch": false,
-  "firstSeen": "2026-09-29"
- },
- {
-  "t": "Anthropic considers releasing new AI model ahead of IPO, sources say",
-  "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTzFtd0RKQkJYWUFpZ0paUk55MGpraW5zUTdadklCVHZnLUlidUpEQ3ZWWTRiU2w3X3FCZXliZTAyeW4zOHZIQlROTDdCeW82U25ub2lkdzVaX1dpQXpmRWVVTEFRMm5kTUFJNnp6MnJQeFNNRHc5UlpNZUtNTUtGUnJtRGFJbDk5cmhJcTNhaUI3LUh1VVp2WUxqSml6WUUtRURTaEQ1QktRRF9pQUh2MFJtczRKdFpqR01abUk4UUVEX19wVkpiYkY0dFbSAdMBQVVfeXFMTVNObXd6UzhEdmZQeVA1eWN5dE9BeE1WX3UtNWNacGZUaTB2eUo2UXBTUXFWZVZYNkpRQ1EtdzhCQWJWU01KUTYwWkt3OXVzWDZGVVZma2pZY1QyTmRnWElBTW02eEd2eHhTVHVJUmpueHVFMXgxQzh0MmdvNlg2Qk1QRldxRDZlSzUxZGg3dVlBTWozYTEwRy1vdjdmV2pJeEhZcGpxTW5KdEVCOUxSVHRROHVxeHpVXzVqdldDVXZzRmxoX19OOVJmR0hMUGFfdVVYcw?oc=5",
-  "d": "2026-09-21",
-  "sum": "Anthropic considers releasing new AI model ahead of IPO, sources say The Hindu",
-  "src": "The Hindu",
-  "topics": [],
-  "launch": true,
-  "firstSeen": "2026-09-28"
- },
- {
-  "t": "Anthropic Weighs New AI Model as OpenAI’s GPT-6 Astra Gains Ground",
-  "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdlBtMV96eEVaQkhiUDFuVERJY2tieGVhckduUG5jVGJLV1BHRS1mcE1mWGVCQ0NTWktyWEI3OGNHaVplaDJTWk0wbFVSZDFzZWVZR09mc29XV0pNcEpPRl81OVpFZmJiaHdqTmFsdFhMUXoxaFllME5WdDV4aWVnV243Nl9RcVo1Q3hGdmNaM0xZSXF3aGw2UWttRnI1OEZjNWt1dGtn?oc=5",
-  "d": "2026-09-21",
-  "sum": "Anthropic Weighs New AI Model as OpenAI’s GPT-6 Astra Gains Ground analyticsindiamag.com",
-  "src": "analyticsindiamag.com",
-  "topics": [],
-  "launch": false,
-  "firstSeen": "2026-09-27"
  }
 ]
