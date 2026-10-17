@@ -1,5 +1,5 @@
 {
- "date": "2026-10-16",
+ "date": "2026-10-17",
  "health": [
   {
    "source": "OpenAI",
@@ -9,7 +9,7 @@
   {
    "source": "Google AI",
    "ok": true,
-   "items": 2
+   "items": 1
   },
   {
    "source": "Google DeepMind",
@@ -29,12 +29,12 @@
   {
    "source": "Simon Willison",
    "ok": true,
-   "items": 19
+   "items": 17
   },
   {
    "source": "Latent Space",
    "ok": true,
-   "items": 15
+   "items": 14
   },
   {
    "source": "MIT Technology Review",
@@ -48,8 +48,8 @@
   },
   {
    "source": "Hacker News",
-   "ok": true,
-   "items": 14
+   "ok": false,
+   "error": "HTTP 502"
   },
   {
    "source": "News: Anthropic",
