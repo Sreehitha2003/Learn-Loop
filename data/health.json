@@ -1,10 +1,10 @@
 {
- "date": "2026-10-19",
+ "date": "2026-10-20",
  "health": [
   {
    "source": "OpenAI",
    "ok": true,
-   "items": 24
+   "items": 23
   },
   {
    "source": "Google AI",
@@ -19,7 +19,7 @@
   {
    "source": "Hugging Face",
    "ok": true,
-   "items": 4
+   "items": 5
   },
   {
    "source": "MCP blog",
@@ -34,12 +34,12 @@
   {
    "source": "Latent Space",
    "ok": true,
-   "items": 14
+   "items": 15
   },
   {
    "source": "MIT Technology Review",
    "ok": true,
-   "items": 10
+   "items": 9
   },
   {
    "source": "The Verge AI",
