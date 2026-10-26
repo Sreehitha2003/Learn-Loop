@@ -1,5 +1,5 @@
 {
- "date": "2026-10-25",
+ "date": "2026-10-26",
  "health": [
   {
    "source": "OpenAI",
@@ -29,7 +29,7 @@
   {
    "source": "Simon Willison",
    "ok": true,
-   "items": 18
+   "items": 17
   },
   {
    "source": "Latent Space",
@@ -48,8 +48,8 @@
   },
   {
    "source": "Hacker News",
-   "ok": false,
-   "error": "HTTP 502"
+   "ok": true,
+   "items": 18
   },
   {
    "source": "News: Anthropic",
