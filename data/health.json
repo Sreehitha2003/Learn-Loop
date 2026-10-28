@@ -1,25 +1,25 @@
 {
- "date": "2026-10-27",
+ "date": "2026-10-28",
  "health": [
   {
    "source": "OpenAI",
    "ok": true,
-   "items": 34
+   "items": 39
   },
   {
    "source": "Google AI",
    "ok": true,
-   "items": 3
+   "items": 2
   },
   {
    "source": "Google DeepMind",
    "ok": true,
-   "items": 4
+   "items": 3
   },
   {
    "source": "Hugging Face",
    "ok": true,
-   "items": 11
+   "items": 12
   },
   {
    "source": "MCP blog",
@@ -29,17 +29,17 @@
   {
    "source": "Simon Willison",
    "ok": true,
-   "items": 16
+   "items": 14
   },
   {
    "source": "Latent Space",
-   "ok": true,
-   "items": 17
+   "ok": false,
+   "error": "This operation was aborted"
   },
   {
    "source": "MIT Technology Review",
    "ok": true,
-   "items": 10
+   "items": 9
   },
   {
    "source": "The Verge AI",
@@ -48,8 +48,8 @@
   },
   {
    "source": "Hacker News",
-   "ok": true,
-   "items": 19
+   "ok": false,
+   "error": "HTTP 502"
   },
   {
    "source": "News: Anthropic",
