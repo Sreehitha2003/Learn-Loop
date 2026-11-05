@@ -1,15 +1,15 @@
 {
- "date": "2026-11-04",
+ "date": "2026-11-05",
  "health": [
   {
    "source": "OpenAI",
    "ok": true,
-   "items": 44
+   "items": 41
   },
   {
    "source": "Google AI",
    "ok": true,
-   "items": 3
+   "items": 2
   },
   {
    "source": "Google DeepMind",
@@ -19,7 +19,7 @@
   {
    "source": "Hugging Face",
    "ok": true,
-   "items": 11
+   "items": 10
   },
   {
    "source": "MCP blog",
@@ -29,7 +29,7 @@
   {
    "source": "Simon Willison",
    "ok": true,
-   "items": 18
+   "items": 20
   },
   {
    "source": "Latent Space",
@@ -39,12 +39,12 @@
   {
    "source": "MIT Technology Review",
    "ok": true,
-   "items": 9
+   "items": 10
   },
   {
    "source": "The Verge AI",
    "ok": true,
-   "items": 6
+   "items": 7
   },
   {
    "source": "Hacker News",
