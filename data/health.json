@@ -1,25 +1,25 @@
 {
- "date": "2026-11-10",
+ "date": "2026-11-11",
  "health": [
   {
    "source": "OpenAI",
    "ok": true,
-   "items": 39
+   "items": 40
   },
   {
    "source": "Google AI",
    "ok": true,
-   "items": 2
+   "items": 5
   },
   {
    "source": "Google DeepMind",
    "ok": true,
-   "items": 5
+   "items": 7
   },
   {
    "source": "Hugging Face",
    "ok": true,
-   "items": 7
+   "items": 9
   },
   {
    "source": "MCP blog",
@@ -44,27 +44,27 @@
   {
    "source": "The Verge AI",
    "ok": true,
-   "items": 8
+   "items": 10
   },
   {
    "source": "Hacker News",
    "ok": false,
-   "error": "This operation was aborted"
+   "error": "HTTP 502"
   },
   {
    "source": "News: Anthropic",
-   "ok": true,
-   "items": 8
+   "ok": false,
+   "error": "HTTP 503"
   },
   {
    "source": "News: MCP",
-   "ok": true,
-   "items": 6
+   "ok": false,
+   "error": "HTTP 503"
   },
   {
    "source": "News: AI models",
-   "ok": true,
-   "items": 8
+   "ok": false,
+   "error": "HTTP 503"
   }
  ]
 }
