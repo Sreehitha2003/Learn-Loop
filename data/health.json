@@ -1,30 +1,30 @@
 {
- "date": "2026-11-11",
+ "date": "2026-11-12",
  "health": [
   {
    "source": "OpenAI",
    "ok": true,
-   "items": 40
+   "items": 38
   },
   {
    "source": "Google AI",
    "ok": true,
-   "items": 5
+   "items": 6
   },
   {
    "source": "Google DeepMind",
    "ok": true,
-   "items": 7
+   "items": 6
   },
   {
    "source": "Hugging Face",
    "ok": true,
-   "items": 9
+   "items": 10
   },
   {
    "source": "MCP blog",
    "ok": true,
-   "items": 1
+   "items": 3
   },
   {
    "source": "Simon Willison",
@@ -44,27 +44,27 @@
   {
    "source": "The Verge AI",
    "ok": true,
-   "items": 10
+   "items": 9
   },
   {
    "source": "Hacker News",
-   "ok": false,
-   "error": "HTTP 502"
+   "ok": true,
+   "items": 20
   },
   {
    "source": "News: Anthropic",
-   "ok": false,
-   "error": "HTTP 503"
+   "ok": true,
+   "items": 8
   },
   {
    "source": "News: MCP",
-   "ok": false,
-   "error": "HTTP 503"
+   "ok": true,
+   "items": 6
   },
   {
    "source": "News: AI models",
-   "ok": false,
-   "error": "HTTP 503"
+   "ok": true,
+   "items": 8
   }
  ]
 }
