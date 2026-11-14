@@ -1,10 +1,10 @@
 {
- "date": "2026-11-13",
+ "date": "2026-11-14",
  "health": [
   {
    "source": "OpenAI",
    "ok": true,
-   "items": 36
+   "items": 35
   },
   {
    "source": "Google AI",
@@ -19,17 +19,17 @@
   {
    "source": "Hugging Face",
    "ok": true,
-   "items": 8
+   "items": 9
   },
   {
    "source": "MCP blog",
    "ok": true,
-   "items": 3
+   "items": 2
   },
   {
    "source": "Simon Willison",
    "ok": true,
-   "items": 22
+   "items": 21
   },
   {
    "source": "Latent Space",
@@ -44,7 +44,7 @@
   {
    "source": "The Verge AI",
    "ok": true,
-   "items": 5
+   "items": 7
   },
   {
    "source": "Hacker News",
