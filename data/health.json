@@ -1,10 +1,10 @@
 {
- "date": "2026-11-22",
+ "date": "2026-11-23",
  "health": [
   {
    "source": "OpenAI",
    "ok": true,
-   "items": 35
+   "items": 36
   },
   {
    "source": "Google AI",
@@ -44,12 +44,12 @@
   {
    "source": "The Verge AI",
    "ok": true,
-   "items": 6
+   "items": 5
   },
   {
    "source": "Hacker News",
-   "ok": false,
-   "error": "HTTP 502"
+   "ok": true,
+   "items": 20
   },
   {
    "source": "News: Anthropic",
