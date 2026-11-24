@@ -1,5 +1,5 @@
 {
- "date": "2026-11-23",
+ "date": "2026-11-24",
  "health": [
   {
    "source": "OpenAI",
@@ -9,17 +9,17 @@
   {
    "source": "Google AI",
    "ok": true,
-   "items": 9
+   "items": 10
   },
   {
    "source": "Google DeepMind",
    "ok": true,
-   "items": 6
+   "items": 7
   },
   {
    "source": "Hugging Face",
    "ok": true,
-   "items": 12
+   "items": 13
   },
   {
    "source": "MCP blog",
@@ -44,7 +44,7 @@
   {
    "source": "The Verge AI",
    "ok": true,
-   "items": 5
+   "items": 4
   },
   {
    "source": "Hacker News",
